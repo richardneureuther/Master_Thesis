@@ -61,6 +61,18 @@ merged_data <- merged_data %>%
   filter(in_africa == 1 | in_middle_east == 1)
 ```
 
+keep only relevat columns
+```{r}
+merged_data <- merged_data %>%
+  select(month_id, country_id, gleditsch_ward, ged_sb, Date, Month,Year,isoname,isoab,in_africa,in_middle_east) 
+```
+
 ```{r}
 glimpse(merged_data)
 ```
+#save merged_data as csv
+```{r}
+write.csv(merged_data, "C:/Users/Richard Neureuther/OneDrive/Documents/SEDS/Master Thesis/GED_fatalities.csv", row.names = FALSE)
+```
+
+
