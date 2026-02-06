@@ -87,7 +87,7 @@ cameo_map <- bind_rows(
          variable = "escalation_nonviolent"),
   
   #Variable 7: Non-lethal escalation
-  tibble(CAMEO = c("180","181","1821","1822","185","190","191","192","193","196"),
+  tibble(CAMEO = c("180","181","185","190","191","192","193","196"),
          variable = "escalation_nonlethal"),
   
   #Variable 8: External involvement
@@ -254,7 +254,7 @@ events_2023 <- files %>%
     show_col_types = FALSE
   )
 
-#remove all rows form 2022 (for some reason the ICEWS team included data from 2022 in the  2023 weekly data)
+#remove all rows form 2022 (for some reason the ICEWS team included data from 2022 in the 2023 weekly data)
 events_2023 <- events_2023 %>%
   filter(!str_starts(`Event Date`, "2022"))
 ```
@@ -417,6 +417,7 @@ panel_year_totals
 ```
 
 #export dataset as csv
+
 ```{r}
 write_csv(
   icews_full_panel,  
@@ -425,6 +426,23 @@ write_csv(
 ```
 
 ## EDA
+
+Create a long format of the dataset for visualisation
+```{r}
+expected_vars <- c(
+  "deescalation","breakdown","protest","repression_up",
+  "repression_down","escalation_nonviolent","escalation_nonlethal","external"
+)
+
+panel_year_long <- icews_full_panel %>%
+  group_by(year) %>%
+  summarise(across(all_of(expected_vars), \(x) sum(x, na.rm = TRUE)), .groups = "drop") %>%
+  pivot_longer(
+    cols = all_of(expected_vars),
+    names_to = "variable",
+    values_to = "n_events"
+  )
+```
 
 ```{r}
 
@@ -458,12 +476,13 @@ agg_plot <- ggplot(panel_year_long,
   )
 
 ```
+
 ```{r}
 agg_plot
 ```
 
-
 #separate plots for each variable
+
 ```{r}
 sep_plot <- ggplot(panel_year_long, aes(x = year, y = n_events)) +
   geom_line(linewidth = 1, color = "steelblue") +
@@ -486,11 +505,15 @@ sep_plot <- ggplot(panel_year_long, aes(x = year, y = n_events)) +
 
 
 ```
+
 ```{r}
 sep_plot
 ```
+Explanation for sharp increase in mobilization and Dissen variable:
+Mobilization and dissent events increase sharply in 2010–2011, coinciding with the onset of the Arab Spring, which has been widely identified as a catalyst for mass protest and regional mobilization (Beissinger et al., 2015). (https://www.jstor.org/stable/43664167?seq=1)
 
-export plots with high dpi 
+export plots with high dpi
+
 ```{r}
 ggsave(
   filename = "ICEWS/aggregated_files/icews_event_categories_over_time_agg.png",
@@ -508,4 +531,3 @@ ggsave(
   dpi      = 300
 )
 ```
-
