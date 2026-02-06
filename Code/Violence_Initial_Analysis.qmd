@@ -1,0 +1,66 @@
+---
+title: "Initial Analysis ViEWS features"
+author: "Richard Neureuther"
+format: html
+editor: visual
+execute:
+  echo: false
+---
+
+load tidyverse
+
+```{r}
+library(tidyverse)
+```
+
+import ViEWS country level features and lookups
+
+```{r}
+setwd("C:\\Users\\Richard Neureuther\\OneDrive\\Documents\\SEDS\\Master Thesis\\Data")
+views_data <- read.csv("ViEWS/cm_features.csv")
+
+month_lookup <- read.csv("ViEWS\\month_ids.csv")
+#remove last 3 columns form month lookup
+month_lookup <- month_lookup[,1:4]
+
+country_lookup <- read.csv("ViEWS/countries.csv")
+```
+
+Remove all columns after 11 from the views data and merge with lookup tables
+
+```{r}
+
+#remove all columns after 11 from views data
+views_data <- views_data[, 1:11]
+
+#remove column 10 
+views_data <- views_data[, -10]
+```
+
+```{r}
+#merge on month_id views data with month lookup
+views_data <- views_data %>%
+  left_join(month_lookup, by = c("month_id" = "month_id"))
+
+#merge on country_id views data with country lookup
+merged_data <- views_data %>%
+  left_join(country_lookup, by = c("country_id" = "id"))
+```
+
+remove lookup tables form environment
+
+```{r}
+rm(month_lookup)
+rm(country_lookup)
+```
+
+remove all rows that do not have in_africa or in_middle_east equal to 1
+
+```{r}
+merged_data <- merged_data %>%
+  filter(in_africa == 1 | in_middle_east == 1)
+```
+
+```{r}
+glimpse(merged_data)
+```
