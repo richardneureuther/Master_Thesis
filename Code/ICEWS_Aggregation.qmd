@@ -150,7 +150,7 @@ process_icews_year <- function(year, data_dir, countries, cameo_map) {
     #keep only countries that are in the country lookup table 
     filter(iso3c %in% countries$isoab) %>%
     
-    #remove all non domestic events exeptfor events relevant for international involvement 
+    #remove all non domestic events exept for events relevant for international involvement 
     filter(
       source_country == target_country |
         (source_country != target_country &
@@ -176,7 +176,7 @@ process_icews_year <- function(year, data_dir, countries, cameo_map) {
     #assign  Var 1 if domestic, Var 8 if international 
     mutate(
       variable = case_when(
-        CAMEO == "057" & source_country != target_country ~ "external",
+        #CAMEO == "057" & source_country != target_country ~ "external",
         CAMEO == "057" & source_country == target_country ~ "deescalation",
         TRUE ~ variable
       )
@@ -509,7 +509,7 @@ sep_plot <- ggplot(panel_year_long, aes(x = year, y = n_events)) +
 ```{r}
 sep_plot
 ```
-Explanation for sharp increase in mobilization and Dissen variable:
+Explanation for sharp increase in mobilization and Dissent variable:
 Mobilization and dissent events increase sharply in 2010–2011, coinciding with the onset of the Arab Spring, which has been widely identified as a catalyst for mass protest and regional mobilization (Beissinger et al., 2015). (https://www.jstor.org/stable/43664167?seq=1)
 
 export plots with high dpi
