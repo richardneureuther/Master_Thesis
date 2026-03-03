@@ -29,6 +29,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1990,Oman,OMN,0,1
 153,0,0,0,0,0,1,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1990,United Arab Emirates,ARE,0,1
@@ -94,6 +95,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1990,Oman,OMN,0,1
 0,0,0,0,0,0,2,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1990,United Arab Emirates,ARE,0,1
@@ -159,6 +161,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1990,Oman,OMN,0,1
 90,0,0,0,0,0,3,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1990,United Arab Emirates,ARE,0,1
@@ -226,6 +229,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1990,Oman,OMN,0,1
 28,0,0,0,0,0,4,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1990,United Arab Emirates,ARE,0,1
@@ -292,6 +296,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1990,Oman,OMN,0,1
 0,0,0,0,0,0,5,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1990,Bahrain,BHR,0,1
+1,0,0,0,0,0,5,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1990,United Arab Emirates,ARE,0,1
@@ -359,6 +364,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1990,Oman,OMN,0,1
 0,0,0,0,0,0,6,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1990,Bahrain,BHR,0,1
+23,0,0,0,0,0,6,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1990,United Arab Emirates,ARE,0,1
@@ -424,6 +430,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1990,Oman,OMN,0,1
 15,0,0,0,0,0,7,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1990,Bahrain,BHR,0,1
+7,0,0,0,0,0,7,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1990,United Arab Emirates,ARE,0,1
@@ -489,6 +496,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1990,Oman,OMN,0,1
 80,0,0,0,0,0,8,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1990,"Iran, Islamic Republic of",IRN,0,1
 922,0,4,0,0,0,8,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1990,United Arab Emirates,ARE,0,1
@@ -554,6 +562,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1990,Oman,OMN,0,1
 72,0,0,0,0,0,9,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1990,"Iran, Islamic Republic of",IRN,0,1
 7,0,34,0,0,0,9,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1990,United Arab Emirates,ARE,0,1
@@ -619,6 +628,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1990,Oman,OMN,0,1
 641,0,0,0,0,0,10,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1990,"Iran, Islamic Republic of",IRN,0,1
 129,0,233,0,0,0,10,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1990,United Arab Emirates,ARE,0,1
@@ -684,6 +694,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1990,Oman,OMN,0,1
 154,0,0,0,0,0,11,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1990,United Arab Emirates,ARE,0,1
@@ -749,6 +760,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1990,Oman,OMN,0,1
 1417,50,0,0,0,0,12,1990,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1990,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1990,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1990,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1990,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1990,United Arab Emirates,ARE,0,1
@@ -814,6 +826,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1991,Oman,OMN,0,1
 3300,0,0,0,0,0,1,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1991,"Iran, Islamic Republic of",IRN,0,1
 47,0,0,0,0,0,1,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1991,United Arab Emirates,ARE,0,1
@@ -879,6 +892,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1991,Oman,OMN,0,1
 0,0,50,0,0,0,2,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1991,"Iran, Islamic Republic of",IRN,0,1
 399,0,14,0,0,0,2,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1991,United Arab Emirates,ARE,0,1
@@ -944,6 +958,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1991,Oman,OMN,0,1
 0,0,200,0,0,0,3,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1991,Bahrain,BHR,0,1
+1,0,0,0,0,0,3,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1991,United Arab Emirates,ARE,0,1
@@ -1009,6 +1024,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1991,Oman,OMN,0,1
 225,0,200,0,0,0,4,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1991,Bahrain,BHR,0,1
+43,0,0,0,0,0,4,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1991,United Arab Emirates,ARE,0,1
@@ -1074,6 +1090,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1991,Oman,OMN,0,1
 0,0,0,0,0,0,5,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1991,United Arab Emirates,ARE,0,1
@@ -1139,6 +1156,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1991,Oman,OMN,0,1
 0,0,0,0,0,0,6,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1991,United Arab Emirates,ARE,0,1
@@ -1204,6 +1222,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1991,Oman,OMN,0,1
 0,0,0,0,0,0,7,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1991,United Arab Emirates,ARE,0,1
@@ -1269,6 +1288,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1991,Oman,OMN,0,1
 480,0,0,0,0,0,8,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1991,United Arab Emirates,ARE,0,1
@@ -1334,6 +1354,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1991,Oman,OMN,0,1
 1000,0,0,0,0,0,9,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1991,United Arab Emirates,ARE,0,1
@@ -1399,6 +1420,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1991,Oman,OMN,0,1
 0,0,0,0,0,0,10,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1991,United Arab Emirates,ARE,0,1
@@ -1464,6 +1486,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1991,Oman,OMN,0,1
 1030,0,0,0,0,0,11,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1991,United Arab Emirates,ARE,0,1
@@ -1529,6 +1552,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1991,Oman,OMN,0,1
 1970,0,0,0,0,0,12,1991,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1991,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1991,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1991,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1991,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1991,United Arab Emirates,ARE,0,1
@@ -1594,6 +1618,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1992,Oman,OMN,0,1
 1000,500,0,0,0,0,1,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1992,United Arab Emirates,ARE,0,1
@@ -1659,6 +1684,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1992,Oman,OMN,0,1
 149,0,0,0,0,0,2,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1992,United Arab Emirates,ARE,0,1
@@ -1724,6 +1750,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1992,Oman,OMN,0,1
 2,0,0,0,0,0,3,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1992,United Arab Emirates,ARE,0,1
@@ -1789,6 +1816,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1992,Oman,OMN,0,1
 0,60,0,0,0,0,4,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1992,Bahrain,BHR,0,1
+4,0,0,0,0,0,4,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1992,United Arab Emirates,ARE,0,1
@@ -1854,6 +1882,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1992,Oman,OMN,0,1
 0,300,0,0,0,0,5,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1992,United Arab Emirates,ARE,0,1
@@ -1919,6 +1948,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1992,Oman,OMN,0,1
 0,625,0,0,0,0,6,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1992,United Arab Emirates,ARE,0,1
@@ -1984,6 +2014,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1992,Oman,OMN,0,1
 0,0,0,0,0,0,7,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1992,United Arab Emirates,ARE,0,1
@@ -2049,6 +2080,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1992,Oman,OMN,0,1
 0,2000,0,0,0,0,8,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1992,United Arab Emirates,ARE,0,1
@@ -2114,6 +2146,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1992,Oman,OMN,0,1
 3,0,0,0,0,0,9,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1992,United Arab Emirates,ARE,0,1
@@ -2179,6 +2212,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1992,Oman,OMN,0,1
 0,0,0,0,0,0,10,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1992,United Arab Emirates,ARE,0,1
@@ -2244,6 +2278,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1992,Oman,OMN,0,1
 0,0,0,0,0,0,11,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1992,United Arab Emirates,ARE,0,1
@@ -2309,6 +2344,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1992,Oman,OMN,0,1
 0,0,90,0,0,0,12,1992,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1992,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1992,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1992,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1992,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1992,United Arab Emirates,ARE,0,1
@@ -2374,6 +2410,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1993,Oman,OMN,0,1
 0,270,0,0,0,0,1,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1993,Bahrain,BHR,0,1
+1,0,0,0,0,0,1,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1993,United Arab Emirates,ARE,0,1
@@ -2439,6 +2476,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1993,Oman,OMN,0,1
 0,114,0,0,0,0,2,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1993,Bahrain,BHR,0,1
+14,0,0,0,0,0,2,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1993,United Arab Emirates,ARE,0,1
@@ -2504,6 +2542,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1993,Oman,OMN,0,1
 0,23,0,0,0,0,3,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1993,Bahrain,BHR,0,1
+10,0,0,0,0,0,3,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1993,United Arab Emirates,ARE,0,1
@@ -2569,6 +2608,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1993,Oman,OMN,0,1
 0,26,0,0,0,0,4,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1993,Bahrain,BHR,0,1
+10,0,0,0,0,0,4,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1993,United Arab Emirates,ARE,0,1
@@ -2636,6 +2676,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1993,Oman,OMN,0,1
 0,20,0,0,0,0,5,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1993,Bahrain,BHR,0,1
+19,0,0,0,0,0,5,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1993,United Arab Emirates,ARE,0,1
@@ -2703,6 +2744,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1993,Oman,OMN,0,1
 0,0,0,0,0,0,6,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1993,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1993,United Arab Emirates,ARE,0,1
@@ -2769,6 +2811,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1993,Oman,OMN,0,1
 0,0,0,0,0,0,7,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1993,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1993,United Arab Emirates,ARE,0,1
@@ -2835,6 +2878,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1993,Oman,OMN,0,1
 0,0,0,0,0,0,8,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1993,Bahrain,BHR,0,1
+4,0,0,0,0,0,8,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1993,United Arab Emirates,ARE,0,1
@@ -2901,6 +2945,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1993,Oman,OMN,0,1
 1,3,0,0,0,0,9,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1993,Bahrain,BHR,0,1
+85,0,0,0,0,0,9,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1993,United Arab Emirates,ARE,0,1
@@ -2967,6 +3012,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1993,Oman,OMN,0,1
 24,2,0,0,0,0,10,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1993,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1993,United Arab Emirates,ARE,0,1
@@ -3033,6 +3079,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1993,Oman,OMN,0,1
 0,0,0,0,0,0,11,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1993,Bahrain,BHR,0,1
+10,0,0,0,0,0,11,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1993,United Arab Emirates,ARE,0,1
@@ -3099,6 +3146,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1993,Oman,OMN,0,1
 0,0,0,0,0,0,12,1993,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1993,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1993,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1993,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1993,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1993,United Arab Emirates,ARE,0,1
@@ -3165,6 +3213,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1994,Oman,OMN,0,1
 0,0,0,0,0,0,1,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1994,United Arab Emirates,ARE,0,1
@@ -3231,6 +3280,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1994,Oman,OMN,0,1
 0,30,0,0,0,0,2,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1994,United Arab Emirates,ARE,0,1
@@ -3297,6 +3347,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1994,Oman,OMN,0,1
 0,0,0,0,0,0,3,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1994,United Arab Emirates,ARE,0,1
@@ -3363,6 +3414,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1994,Oman,OMN,0,1
 0,30,0,0,0,0,4,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1994,Bahrain,BHR,0,1
+1,0,0,0,0,0,4,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1994,United Arab Emirates,ARE,0,1
@@ -3429,6 +3481,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1994,Oman,OMN,0,1
 0,8,0,0,0,0,5,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1994,United Arab Emirates,ARE,0,1
@@ -3495,6 +3548,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1994,Oman,OMN,0,1
 18,0,0,0,0,0,6,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1994,United Arab Emirates,ARE,0,1
@@ -3561,6 +3615,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1994,Oman,OMN,0,1
 40,0,0,0,0,0,7,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1994,United Arab Emirates,ARE,0,1
@@ -3627,6 +3682,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1994,Oman,OMN,0,1
 0,0,0,0,0,0,8,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1994,Bahrain,BHR,0,1
+15,0,0,0,0,0,8,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1994,United Arab Emirates,ARE,0,1
@@ -3693,6 +3749,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1994,Oman,OMN,0,1
 0,0,0,0,0,0,9,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1994,United Arab Emirates,ARE,0,1
@@ -3759,6 +3816,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1994,Oman,OMN,0,1
 37,5,0,0,0,0,10,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1994,United Arab Emirates,ARE,0,1
@@ -3825,6 +3883,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1994,Oman,OMN,0,1
 12,93,0,0,0,0,11,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1994,United Arab Emirates,ARE,0,1
@@ -3891,6 +3950,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1994,Oman,OMN,0,1
 130,223,0,0,0,0,12,1994,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1994,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1994,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1994,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1994,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1994,United Arab Emirates,ARE,0,1
@@ -3957,6 +4017,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1995,Oman,OMN,0,1
 29,10,0,0,0,0,1,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1995,United Arab Emirates,ARE,0,1
@@ -4023,6 +4084,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1995,Oman,OMN,0,1
 1,10,0,0,0,0,2,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1995,United Arab Emirates,ARE,0,1
@@ -4089,6 +4151,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1995,Oman,OMN,0,1
 0,78,0,0,0,0,3,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1995,United Arab Emirates,ARE,0,1
@@ -4155,6 +4218,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1995,Oman,OMN,0,1
 0,51,0,0,0,0,4,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1995,United Arab Emirates,ARE,0,1
@@ -4221,6 +4285,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1995,Oman,OMN,0,1
 12,7,0,0,0,0,5,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1995,United Arab Emirates,ARE,0,1
@@ -4287,6 +4352,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1995,Oman,OMN,0,1
 0,2,0,0,0,0,6,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1995,United Arab Emirates,ARE,0,1
@@ -4353,6 +4419,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1995,Oman,OMN,0,1
 6,52,0,0,0,0,7,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1995,United Arab Emirates,ARE,0,1
@@ -4419,6 +4486,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1995,Oman,OMN,0,1
 26,11,1,0,0,0,8,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1995,United Arab Emirates,ARE,0,1
@@ -4485,6 +4553,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1995,Oman,OMN,0,1
 14,8,0,0,0,0,9,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1995,Bahrain,BHR,0,1
+2,0,0,0,0,0,9,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1995,United Arab Emirates,ARE,0,1
@@ -4551,6 +4620,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1995,Oman,OMN,0,1
 1,73,0,0,0,0,10,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1995,United Arab Emirates,ARE,0,1
@@ -4617,6 +4687,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1995,Oman,OMN,0,1
 0,17,0,0,0,0,11,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1995,Bahrain,BHR,0,1
+15,0,0,0,0,0,11,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1995,United Arab Emirates,ARE,0,1
@@ -4683,6 +4754,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1995,Oman,OMN,0,1
 15,20,0,0,0,0,12,1995,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1995,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1995,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1995,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1995,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1995,United Arab Emirates,ARE,0,1
@@ -4749,6 +4821,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1996,Oman,OMN,0,1
 22,89,0,0,0,0,1,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1996,United Arab Emirates,ARE,0,1
@@ -4815,6 +4888,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1996,Oman,OMN,0,1
 0,10,0,0,0,0,2,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1996,United Arab Emirates,ARE,0,1
@@ -4881,6 +4955,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1996,Oman,OMN,0,1
 0,24,0,0,0,0,3,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1996,United Arab Emirates,ARE,0,1
@@ -4947,6 +5022,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1996,Oman,OMN,0,1
 0,140,0,0,0,0,4,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1996,United Arab Emirates,ARE,0,1
@@ -5013,6 +5089,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1996,Oman,OMN,0,1
 0,14,0,0,0,0,5,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1996,United Arab Emirates,ARE,0,1
@@ -5079,6 +5156,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1996,Oman,OMN,0,1
 14,48,0,0,0,0,6,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1996,Bahrain,BHR,0,1
+3,0,0,0,0,0,6,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1996,United Arab Emirates,ARE,0,1
@@ -5145,6 +5223,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1996,Oman,OMN,0,1
 61,106,0,0,0,0,7,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1996,Bahrain,BHR,0,1
+20,0,0,0,0,0,7,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1996,United Arab Emirates,ARE,0,1
@@ -5211,6 +5290,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1996,Oman,OMN,0,1
 177,5,0,0,0,0,8,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1996,United Arab Emirates,ARE,0,1
@@ -5277,6 +5357,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1996,Oman,OMN,0,1
 13,1,0,0,0,0,9,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1996,Bahrain,BHR,0,1
+11,0,0,0,0,0,9,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1996,United Arab Emirates,ARE,0,1
@@ -5343,6 +5424,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1996,Oman,OMN,0,1
 1,33,0,0,0,0,10,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,1,0,0,0,10,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1996,United Arab Emirates,ARE,0,1
@@ -5409,6 +5491,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1996,Oman,OMN,0,1
 9,39,0,0,0,0,11,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1996,United Arab Emirates,ARE,0,1
@@ -5475,6 +5558,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1996,Oman,OMN,0,1
 143,0,0,0,0,0,12,1996,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1996,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1996,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1996,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1996,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1996,United Arab Emirates,ARE,0,1
@@ -5541,6 +5625,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1997,Oman,OMN,0,1
 0,0,0,0,0,0,1,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1997,Bahrain,BHR,0,1
+19,0,0,0,0,0,1,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1997,United Arab Emirates,ARE,0,1
@@ -5607,6 +5692,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1997,Oman,OMN,0,1
 0,18,0,0,0,1,2,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1997,Bahrain,BHR,0,1
+6,0,0,0,0,0,2,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1997,United Arab Emirates,ARE,0,1
@@ -5673,6 +5759,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1997,Oman,OMN,0,1
 0,11,0,0,0,0,3,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1997,United Arab Emirates,ARE,0,1
@@ -5739,6 +5826,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1997,Oman,OMN,0,1
 0,3,0,0,0,2,4,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1997,United Arab Emirates,ARE,0,1
@@ -5805,6 +5893,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1997,Oman,OMN,0,1
 0,43,0,0,0,0,5,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1997,United Arab Emirates,ARE,0,1
@@ -5871,6 +5960,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1997,Oman,OMN,0,1
 0,9,0,33,2,6,6,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1997,United Arab Emirates,ARE,0,1
@@ -5937,6 +6027,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1997,Oman,OMN,0,1
 0,0,0,0,0,0,7,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1997,United Arab Emirates,ARE,0,1
@@ -6003,6 +6094,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1997,Oman,OMN,0,1
 0,184,0,0,0,5,8,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1997,United Arab Emirates,ARE,0,1
@@ -6069,6 +6161,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1997,Oman,OMN,0,1
 0,0,0,0,0,0,9,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1997,United Arab Emirates,ARE,0,1
@@ -6135,6 +6228,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1997,Oman,OMN,0,1
 0,0,0,0,0,0,10,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1997,Bahrain,BHR,0,1
+4,0,0,0,0,0,10,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1997,United Arab Emirates,ARE,0,1
@@ -6201,6 +6295,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1997,Oman,OMN,0,1
 0,9,0,0,0,0,11,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1997,Bahrain,BHR,0,1
+8,0,0,0,0,0,11,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1997,United Arab Emirates,ARE,0,1
@@ -6267,6 +6362,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1997,Oman,OMN,0,1
 0,0,0,0,0,1,12,1997,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1997,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1997,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1997,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1997,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1997,United Arab Emirates,ARE,0,1
@@ -6333,6 +6429,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1998,Oman,OMN,0,1
 0,0,0,0,0,0,1,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1998,United Arab Emirates,ARE,0,1
@@ -6399,6 +6496,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1998,Oman,OMN,0,1
 0,13,0,0,0,0,2,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1998,United Arab Emirates,ARE,0,1
@@ -6465,6 +6563,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1998,Oman,OMN,0,1
 0,41,0,0,0,3,3,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1998,Bahrain,BHR,0,1
+6,0,0,0,0,0,3,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1998,United Arab Emirates,ARE,0,1
@@ -6531,6 +6630,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1998,Oman,OMN,0,1
 0,43,0,0,1,0,4,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1998,United Arab Emirates,ARE,0,1
@@ -6597,6 +6697,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1998,Oman,OMN,0,1
 0,106,0,0,1,0,5,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1998,United Arab Emirates,ARE,0,1
@@ -6663,6 +6764,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1998,Oman,OMN,0,1
 0,40,0,0,0,0,6,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1998,Bahrain,BHR,0,1
+3,0,0,0,0,0,6,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1998,United Arab Emirates,ARE,0,1
@@ -6729,6 +6831,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1998,Oman,OMN,0,1
 0,0,0,0,0,0,7,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1998,United Arab Emirates,ARE,0,1
@@ -6795,6 +6898,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1998,Oman,OMN,0,1
 0,0,0,0,0,0,8,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1998,Bahrain,BHR,0,1
+2,0,0,0,0,0,8,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1998,United Arab Emirates,ARE,0,1
@@ -6861,6 +6965,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1998,Oman,OMN,0,1
 0,0,0,0,0,0,9,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1998,United Arab Emirates,ARE,0,1
@@ -6927,6 +7032,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1998,Oman,OMN,0,1
 0,0,0,0,0,0,10,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1998,Bahrain,BHR,0,1
+2,0,0,0,0,0,10,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1998,United Arab Emirates,ARE,0,1
@@ -6993,6 +7099,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1998,Oman,OMN,0,1
 0,18,0,0,0,1,11,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1998,United Arab Emirates,ARE,0,1
@@ -7059,6 +7166,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1998,Oman,OMN,0,1
 0,69,0,0,0,0,12,1998,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1998,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,1998,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1998,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1998,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1998,United Arab Emirates,ARE,0,1
@@ -7125,6 +7233,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,1999,Oman,OMN,0,1
 0,66,37,0,0,5,1,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,1,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,1,1999,United Arab Emirates,ARE,0,1
@@ -7191,6 +7300,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,1999,Oman,OMN,0,1
 0,0,0,0,1,0,2,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,2,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,2,1999,United Arab Emirates,ARE,0,1
@@ -7257,6 +7367,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,1999,Oman,OMN,0,1
 0,40,0,0,1,14,3,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,3,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,3,1999,United Arab Emirates,ARE,0,1
@@ -7323,6 +7434,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,1999,Oman,OMN,0,1
 0,82,0,0,0,0,4,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,4,1999,Bahrain,BHR,0,1
+1,0,0,0,0,0,4,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,4,1999,United Arab Emirates,ARE,0,1
@@ -7389,6 +7501,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,1999,Oman,OMN,0,1
 0,57,0,0,2,0,5,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,5,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,5,1999,United Arab Emirates,ARE,0,1
@@ -7455,6 +7568,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,6,1999,Oman,OMN,0,1
 0,50,0,0,1,17,6,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,6,1999,Bahrain,BHR,0,1
+1,0,0,0,0,0,6,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,6,1999,United Arab Emirates,ARE,0,1
@@ -7521,6 +7635,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,7,1999,Oman,OMN,0,1
 0,23,0,12,4,0,7,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,7,1999,Bahrain,BHR,0,1
+12,0,0,0,0,0,7,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,7,1999,United Arab Emirates,ARE,0,1
@@ -7587,6 +7702,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,8,1999,Oman,OMN,0,1
 0,22,0,0,1,0,8,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,8,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,8,1999,United Arab Emirates,ARE,0,1
@@ -7653,6 +7769,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,1999,Oman,OMN,0,1
 0,138,0,0,0,6,9,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,9,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,9,1999,United Arab Emirates,ARE,0,1
@@ -7719,6 +7836,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,10,1999,Oman,OMN,0,1
 0,27,0,0,0,4,10,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,10,1999,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,10,1999,United Arab Emirates,ARE,0,1
@@ -7785,6 +7903,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,11,1999,Oman,OMN,0,1
 0,0,0,0,0,0,11,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,11,1999,Bahrain,BHR,0,1
+2,0,0,0,0,0,11,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,11,1999,United Arab Emirates,ARE,0,1
@@ -7851,6 +7970,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,12,1999,Oman,OMN,0,1
 0,0,0,0,0,0,12,1999,Somalia,SOM,1,0
 0,0,0,0,0,0,12,1999,Bahrain,BHR,0,1
+3,0,0,0,0,0,12,1999,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,1999,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,1999,Qatar,QAT,0,1
 0,0,0,0,0,0,12,1999,United Arab Emirates,ARE,0,1
@@ -7917,6 +8037,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,1,2000,Oman,OMN,0,1
 0,9,2,0,0,5,1,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2000,Bahrain,BHR,0,1
+4,0,0,0,0,0,1,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2000,United Arab Emirates,ARE,0,1
@@ -7983,6 +8104,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,2,2000,Oman,OMN,0,1
 0,68,0,0,0,0,2,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2000,Bahrain,BHR,0,1
+13,0,0,0,0,0,2,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2000,United Arab Emirates,ARE,0,1
@@ -8049,6 +8171,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,3,2000,Oman,OMN,0,1
 0,0,0,0,0,1,3,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2000,Bahrain,BHR,0,1
+2,0,0,0,0,0,3,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2000,United Arab Emirates,ARE,0,1
@@ -8115,6 +8238,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,4,2000,Oman,OMN,0,1
 0,0,0,0,0,0,4,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2000,Bahrain,BHR,0,1
+3,0,0,0,0,0,4,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2000,United Arab Emirates,ARE,0,1
@@ -8181,6 +8305,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,5,2000,Oman,OMN,0,1
 0,9,0,0,0,1,5,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2000,Bahrain,BHR,0,1
+1,0,0,0,0,0,5,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2000,United Arab Emirates,ARE,0,1
@@ -8248,6 +8373,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,29,0,0,1,6,6,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2000,Bahrain,BHR,0,1
+3,0,0,0,0,0,6,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2000,Saudi Arabia,SAU,0,1
@@ -8316,6 +8442,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,4,0,0,0,13,7,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2000,Bahrain,BHR,0,1
+7,0,0,0,0,0,7,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2000,Saudi Arabia,SAU,0,1
@@ -8382,6 +8509,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,39,0,0,0,0,8,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2000,Bahrain,BHR,0,1
+4,0,0,0,0,0,8,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2000,Saudi Arabia,SAU,0,1
@@ -8448,6 +8576,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,25,0,0,1,0,9,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2000,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2000,Saudi Arabia,SAU,0,1
@@ -8514,6 +8643,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,5,10,2000,Somalia,SOM,1,0
 19,0,0,0,0,0,10,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2000,Bahrain,BHR,0,1
+1,0,1,0,0,0,10,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2000,Saudi Arabia,SAU,0,1
@@ -8580,6 +8710,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,1,2,0,11,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2000,Bahrain,BHR,0,1
+2,0,0,0,0,0,11,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2000,Saudi Arabia,SAU,0,1
@@ -8646,6 +8777,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,1,0,12,2000,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2000,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2000,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2000,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2000,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2000,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2000,Saudi Arabia,SAU,0,1
@@ -8712,6 +8844,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,8,5,0,5,3,1,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2001,Bahrain,BHR,0,1
+6,0,0,0,0,0,1,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2001,Saudi Arabia,SAU,0,1
@@ -8778,6 +8911,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,2,2,0,2,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2001,Bahrain,BHR,0,1
+3,0,0,0,0,0,2,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2001,Saudi Arabia,SAU,0,1
@@ -8844,6 +8978,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,33,0,0,2,12,3,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2001,Bahrain,BHR,0,1
+4,0,0,0,0,0,3,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2001,Saudi Arabia,SAU,0,1
@@ -8910,6 +9045,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,6,0,0,1,0,4,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2001,Bahrain,BHR,0,1
+93,0,0,0,0,0,4,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2001,Saudi Arabia,SAU,0,1
@@ -8976,6 +9112,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 58,20,0,15,3,0,5,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2001,Bahrain,BHR,0,1
+3,0,0,0,0,0,5,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2001,Saudi Arabia,SAU,0,1
@@ -9042,6 +9179,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 5,0,0,0,0,0,6,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2001,Bahrain,BHR,0,1
+2,0,0,0,0,0,6,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2001,Saudi Arabia,SAU,0,1
@@ -9108,6 +9246,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 24,63,0,0,1,6,7,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2001,Bahrain,BHR,0,1
+1,0,0,0,0,0,7,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2001,Saudi Arabia,SAU,0,1
@@ -9174,6 +9313,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 109,50,0,0,0,0,8,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2001,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2001,Saudi Arabia,SAU,0,1
@@ -9240,6 +9380,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,0,9,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2001,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2001,Saudi Arabia,SAU,0,1
@@ -9306,6 +9447,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 32,0,0,0,3,1,10,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2001,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2001,Saudi Arabia,SAU,0,1
@@ -9372,6 +9514,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,11,0,0,1,18,11,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2001,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2001,Saudi Arabia,SAU,0,1
@@ -9438,6 +9581,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,59,0,0,2,0,12,2001,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2001,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2001,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2001,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2001,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2001,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2001,Saudi Arabia,SAU,0,1
@@ -9504,6 +9648,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,73,0,0,0,0,1,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2002,Saudi Arabia,SAU,0,1
@@ -9570,6 +9715,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 30,30,0,0,0,4,2,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2002,Saudi Arabia,SAU,0,1
@@ -9636,6 +9782,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,1,0,0,0,6,3,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2002,Saudi Arabia,SAU,0,1
@@ -9702,6 +9849,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 25,0,0,0,2,3,4,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2002,Saudi Arabia,SAU,0,1
@@ -9768,6 +9916,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 33,46,0,0,6,11,5,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2002,Saudi Arabia,SAU,0,1
@@ -9834,6 +9983,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 10,74,0,0,3,1,6,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2002,Saudi Arabia,SAU,0,1
@@ -9900,6 +10050,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 1,101,0,2,3,4,7,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2002,Saudi Arabia,SAU,0,1
@@ -9966,6 +10117,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,87,0,0,0,0,8,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2002,Saudi Arabia,SAU,0,1
@@ -10032,6 +10184,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,19,0,6,3,13,9,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2002,Saudi Arabia,SAU,0,1
@@ -10098,6 +10251,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 15,45,0,0,2,0,10,2002,Somalia,SOM,1,0
 2,0,0,0,0,0,10,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2002,Saudi Arabia,SAU,0,1
@@ -10164,6 +10318,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,14,0,5,2,4,11,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2002,Saudi Arabia,SAU,0,1
@@ -10230,6 +10385,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,34,0,0,11,19,12,2002,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2002,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2002,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2002,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2002,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2002,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2002,Saudi Arabia,SAU,0,1
@@ -10296,6 +10452,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,19,0,13,2,9,1,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2003,Saudi Arabia,SAU,0,1
@@ -10362,6 +10519,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,14,0,26,7,49,2,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2003,Saudi Arabia,SAU,0,1
@@ -10428,6 +10586,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,66,0,8,7,88,3,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2003,Saudi Arabia,SAU,0,1
@@ -10494,6 +10653,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,16,0,8,2,2,4,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2003,Saudi Arabia,SAU,0,1
@@ -10560,6 +10720,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,52,0,28,15,25,5,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2003,Qatar,QAT,0,1
 0,0,26,0,0,0,5,2003,Saudi Arabia,SAU,0,1
@@ -10626,6 +10787,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,17,4,56,21,39,6,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2003,Saudi Arabia,SAU,0,1
@@ -10692,6 +10854,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,67,0,29,24,67,7,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2003,Saudi Arabia,SAU,0,1
@@ -10758,6 +10921,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,12,0,36,30,36,8,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2003,Saudi Arabia,SAU,0,1
@@ -10824,6 +10988,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,22,19,14,9,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2003,Saudi Arabia,SAU,0,1
@@ -10890,6 +11055,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,77,0,30,18,41,10,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2003,Saudi Arabia,SAU,0,1
@@ -10956,6 +11122,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,12,0,8,9,6,11,2003,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2003,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2003,Saudi Arabia,SAU,0,1
@@ -11022,6 +11189,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,49,0,46,10,22,12,2003,Somalia,SOM,1,0
 0,6,0,0,0,0,12,2003,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2003,Bahrain,BHR,0,1
+2,0,0,0,0,0,12,2003,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2003,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2003,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2003,Saudi Arabia,SAU,0,1
@@ -11088,6 +11256,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,20,0,46,13,30,1,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2004,Qatar,QAT,0,1
 7,0,0,0,0,0,1,2004,Saudi Arabia,SAU,0,1
@@ -11154,6 +11323,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,35,0,60,17,55,2,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2004,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2004,Saudi Arabia,SAU,0,1
@@ -11220,6 +11390,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,151,0,41,10,25,3,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2004,Qatar,QAT,0,1
 2,0,0,0,0,0,3,2004,Saudi Arabia,SAU,0,1
@@ -11286,6 +11457,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,273,12,20,4,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2004,Qatar,QAT,0,1
 7,0,0,0,0,0,4,2004,Saudi Arabia,SAU,0,1
@@ -11352,6 +11524,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,146,0,85,19,32,5,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2004,Qatar,QAT,0,1
 10,0,28,0,0,0,5,2004,Saudi Arabia,SAU,0,1
@@ -11418,6 +11591,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,33,0,105,31,49,6,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2004,Qatar,QAT,0,1
 7,0,3,0,0,0,6,2004,Saudi Arabia,SAU,0,1
@@ -11484,6 +11658,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,10,15,32,7,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2004,Qatar,QAT,0,1
 5,0,0,0,0,0,7,2004,Saudi Arabia,SAU,0,1
@@ -11550,6 +11725,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,47,0,0,0,0,8,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2004,Qatar,QAT,0,1
 1,0,1,0,0,0,8,2004,Saudi Arabia,SAU,0,1
@@ -11616,6 +11792,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,47,0,0,0,0,9,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2004,Qatar,QAT,0,1
 0,0,1,0,0,0,9,2004,Saudi Arabia,SAU,0,1
@@ -11682,6 +11859,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,28,0,0,0,0,10,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2004,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2004,Saudi Arabia,SAU,0,1
@@ -11748,6 +11926,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,5,0,0,0,0,11,2004,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2004,Qatar,QAT,0,1
 1,0,0,0,0,0,11,2004,Saudi Arabia,SAU,0,1
@@ -11814,6 +11993,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,158,0,0,0,0,12,2004,Somalia,SOM,1,0
 0,29,0,0,0,0,12,2004,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2004,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2004,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2004,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2004,Qatar,QAT,0,1
 18,0,0,0,0,0,12,2004,Saudi Arabia,SAU,0,1
@@ -11880,6 +12060,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,42,0,0,1,7,1,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2005,Saudi Arabia,SAU,0,1
@@ -11946,6 +12127,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,6,0,2,1,4,2,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2005,Saudi Arabia,SAU,0,1
@@ -12012,6 +12194,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,46,0,0,1,5,3,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2005,Saudi Arabia,SAU,0,1
@@ -12078,6 +12261,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,39,0,0,0,3,4,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2005,Qatar,QAT,0,1
 15,0,0,0,0,0,4,2005,Saudi Arabia,SAU,0,1
@@ -12144,6 +12328,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,21,0,0,1,16,5,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2005,Saudi Arabia,SAU,0,1
@@ -12210,6 +12395,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,90,0,0,0,3,6,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2005,Bahrain,BHR,0,1
+1,0,0,0,0,0,6,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2005,Saudi Arabia,SAU,0,1
@@ -12276,6 +12462,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,30,0,0,3,4,7,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2005,Bahrain,BHR,0,1
+22,0,11,0,0,0,7,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2005,Saudi Arabia,SAU,0,1
@@ -12342,6 +12529,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,45,0,0,1,0,8,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2005,Bahrain,BHR,0,1
+6,0,14,0,0,0,8,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2005,Saudi Arabia,SAU,0,1
@@ -12408,6 +12596,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,5,5,9,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2005,Qatar,QAT,0,1
 9,0,0,0,0,0,9,2005,Saudi Arabia,SAU,0,1
@@ -12474,6 +12663,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,5,10,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2005,Saudi Arabia,SAU,0,1
@@ -12540,6 +12730,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,0,8,11,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2005,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2005,Saudi Arabia,SAU,0,1
@@ -12606,6 +12797,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,21,0,0,0,0,12,2005,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2005,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2005,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2005,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2005,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2005,Qatar,QAT,0,1
 7,0,0,0,0,0,12,2005,Saudi Arabia,SAU,0,1
@@ -12672,6 +12864,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,82,0,0,4,3,1,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2006,Bahrain,BHR,0,1
+1,0,0,0,0,0,1,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2006,Saudi Arabia,SAU,0,1
@@ -12738,6 +12931,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,38,0,4,1,0,2,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2006,Bahrain,BHR,0,1
+0,0,9,0,0,0,2,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2006,Qatar,QAT,0,1
 11,0,0,0,0,0,2,2006,Saudi Arabia,SAU,0,1
@@ -12804,6 +12998,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,90,0,1,3,0,3,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2006,Bahrain,BHR,0,1
+25,0,0,0,0,0,3,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2006,Saudi Arabia,SAU,0,1
@@ -12870,6 +13065,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,15,0,1,1,1,4,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2006,Bahrain,BHR,0,1
+4,0,0,0,0,0,4,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2006,Saudi Arabia,SAU,0,1
@@ -12936,6 +13132,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,279,0,1,1,0,5,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2006,Bahrain,BHR,0,1
+7,0,0,0,0,0,5,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2006,Saudi Arabia,SAU,0,1
@@ -13002,6 +13199,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,52,0,21,3,5,6,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2006,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2006,Saudi Arabia,SAU,0,1
@@ -13068,6 +13266,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,100,0,0,0,3,7,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2006,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2006,Saudi Arabia,SAU,0,1
@@ -13134,6 +13333,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,0,3,4,8,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2006,Bahrain,BHR,0,1
+14,0,0,0,0,0,8,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2006,Saudi Arabia,SAU,0,1
@@ -13200,6 +13400,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 0,0,0,4,1,15,9,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2006,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2006,Saudi Arabia,SAU,0,1
@@ -13266,6 +13467,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 54,0,0,4,4,8,10,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2006,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2006,Saudi Arabia,SAU,0,1
@@ -13332,6 +13534,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 34,0,0,28,7,8,11,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2006,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2006,Saudi Arabia,SAU,0,1
@@ -13398,6 +13601,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 459,0,1,146,36,3,12,2006,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2006,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2006,Bahrain,BHR,0,1
+1,0,0,0,0,0,12,2006,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2006,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2006,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2006,Saudi Arabia,SAU,0,1
@@ -13464,6 +13668,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 114,0,3,123,37,19,1,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2007,Saudi Arabia,SAU,0,1
@@ -13530,6 +13735,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 74,0,0,26,20,63,2,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2007,Bahrain,BHR,0,1
+30,0,0,0,0,0,2,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2007,Saudi Arabia,SAU,0,1
@@ -13596,6 +13802,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 227,0,0,379,35,43,3,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2007,Bahrain,BHR,0,1
+21,0,0,0,0,0,3,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2007,Saudi Arabia,SAU,0,1
@@ -13662,6 +13869,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 697,1,4,323,47,20,4,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2007,Qatar,QAT,0,1
 2,0,0,0,0,0,4,2007,Saudi Arabia,SAU,0,1
@@ -13728,6 +13936,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 29,0,8,8,22,34,5,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2007,Bahrain,BHR,0,1
+12,0,0,0,0,0,5,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2007,Saudi Arabia,SAU,0,1
@@ -13794,6 +14003,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 62,7,5,42,50,49,6,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2007,Saudi Arabia,SAU,0,1
@@ -13860,6 +14070,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,0,37,36,53,7,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2007,Saudi Arabia,SAU,0,1
@@ -13926,6 +14137,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 103,0,0,43,42,27,8,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2007,Saudi Arabia,SAU,0,1
@@ -13992,6 +14204,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 51,8,0,28,42,35,9,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2007,Bahrain,BHR,0,1
+7,0,0,0,0,0,9,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2007,Saudi Arabia,SAU,0,1
@@ -14058,6 +14271,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 54,3,5,72,40,36,10,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2007,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2007,Saudi Arabia,SAU,0,1
@@ -14124,6 +14338,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 40,1,0,53,36,46,11,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2007,Bahrain,BHR,0,1
+4,0,0,0,0,0,11,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2007,Saudi Arabia,SAU,0,1
@@ -14190,6 +14405,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 59,0,0,36,28,27,12,2007,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2007,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2007,Bahrain,BHR,0,1
+12,0,0,0,0,0,12,2007,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2007,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2007,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2007,Saudi Arabia,SAU,0,1
@@ -14256,6 +14472,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 69,10,0,98,38,29,1,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2008,Bahrain,BHR,0,1
+2,0,0,0,0,0,1,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2008,Saudi Arabia,SAU,0,1
@@ -14322,6 +14539,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 59,12,26,77,36,59,2,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2008,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2008,Saudi Arabia,SAU,0,1
@@ -14388,6 +14606,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 114,10,3,98,41,10,3,2008,Somalia,SOM,1,0
 2,0,0,0,0,0,3,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2008,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2008,Saudi Arabia,SAU,0,1
@@ -14454,6 +14673,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 200,0,11,121,54,39,4,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2008,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2008,Saudi Arabia,SAU,0,1
@@ -14520,6 +14740,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 158,30,12,100,60,48,5,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2008,Bahrain,BHR,0,1
+23,0,0,0,0,0,5,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2008,Saudi Arabia,SAU,0,1
@@ -14586,6 +14807,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 86,0,0,52,47,35,6,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2008,Bahrain,BHR,0,1
+2,0,0,0,0,0,6,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2008,Saudi Arabia,SAU,0,1
@@ -14652,6 +14874,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 156,10,1,144,60,42,7,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2008,Bahrain,BHR,0,1
+3,0,1,0,0,0,7,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2008,Saudi Arabia,SAU,0,1
@@ -14718,6 +14941,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 217,0,8,83,55,120,8,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2008,Bahrain,BHR,0,1
+12,0,0,0,0,0,8,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2008,Saudi Arabia,SAU,0,1
@@ -14784,6 +15008,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 117,9,10,77,35,26,9,2008,Somalia,SOM,1,0
 19,0,0,0,0,0,9,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2008,Bahrain,BHR,0,1
+6,0,0,0,0,0,9,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2008,Saudi Arabia,SAU,0,1
@@ -14850,6 +15075,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 146,0,5,80,54,41,10,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2008,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2008,Saudi Arabia,SAU,0,1
@@ -14916,6 +15142,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 90,0,6,52,52,24,11,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,11,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2008,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2008,Saudi Arabia,SAU,0,1
@@ -14982,6 +15209,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 109,64,3,105,52,31,12,2008,Somalia,SOM,1,0
 0,0,0,0,0,0,12,2008,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2008,Bahrain,BHR,0,1
+69,0,0,0,0,0,12,2008,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2008,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2008,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2008,Saudi Arabia,SAU,0,1
@@ -15048,6 +15276,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 102,137,5,12,11,41,1,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,1,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2009,Bahrain,BHR,0,1
+12,0,0,0,0,0,1,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2009,Saudi Arabia,SAU,0,1
@@ -15114,6 +15343,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 99,0,2,48,14,10,2,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,2,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2009,Bahrain,BHR,0,1
+4,0,1,0,0,0,2,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2009,Saudi Arabia,SAU,0,1
@@ -15180,6 +15410,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 54,40,1,26,14,12,3,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,3,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2009,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2009,Saudi Arabia,SAU,0,1
@@ -15246,6 +15477,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 28,0,3,12,12,55,4,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,4,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2009,Bahrain,BHR,0,1
+29,0,0,0,0,0,4,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2009,Saudi Arabia,SAU,0,1
@@ -15312,6 +15544,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 226,106,0,11,9,36,5,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,5,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2009,Bahrain,BHR,0,1
+8,0,25,0,0,0,5,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2009,Saudi Arabia,SAU,0,1
@@ -15378,6 +15611,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 174,126,2,47,21,44,6,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,6,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2009,Bahrain,BHR,0,1
+4,0,47,0,0,0,6,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2009,Saudi Arabia,SAU,0,1
@@ -15444,6 +15678,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 210,31,8,57,25,7,7,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,7,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2009,Bahrain,BHR,0,1
+6,0,1,0,0,0,7,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2009,Saudi Arabia,SAU,0,1
@@ -15510,6 +15745,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 116,84,2,34,17,10,8,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,8,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2009,Bahrain,BHR,0,1
+26,0,0,0,0,0,8,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2009,Saudi Arabia,SAU,0,1
@@ -15576,6 +15812,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 150,2,2,23,9,3,9,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,9,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2009,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2009,Saudi Arabia,SAU,0,1
@@ -15642,6 +15879,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 59,81,5,14,18,70,10,2009,Somalia,SOM,1,0
 0,0,0,0,0,0,10,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2009,Bahrain,BHR,0,1
+44,0,0,0,0,0,10,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2009,Saudi Arabia,SAU,0,1
@@ -15708,6 +15946,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 89,31,2,38,11,19,11,2009,Somalia,SOM,1,0
 5,0,0,0,0,0,11,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2009,Bahrain,BHR,0,1
+0,0,1,0,0,0,11,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2009,Saudi Arabia,SAU,0,1
@@ -15774,6 +16013,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 183,43,1,39,9,35,12,2009,Somalia,SOM,1,0
 89,0,0,0,0,0,12,2009,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2009,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2009,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2009,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2009,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2009,Saudi Arabia,SAU,0,1
@@ -15840,6 +16080,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 71,156,0,127,45,71,1,2010,Somalia,SOM,1,0
 10,0,0,0,0,0,1,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2010,Bahrain,BHR,0,1
+11,0,5,0,0,0,1,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2010,Saudi Arabia,SAU,0,1
@@ -15906,6 +16147,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 111,30,0,107,39,40,2,2010,Somalia,SOM,1,0
 1,0,0,0,0,0,2,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2010,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2010,Saudi Arabia,SAU,0,1
@@ -15972,6 +16214,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 141,79,2,117,31,39,3,2010,Somalia,SOM,1,0
 5,0,0,0,0,0,3,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2010,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2010,Saudi Arabia,SAU,0,1
@@ -16038,6 +16281,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 324,4,2,159,42,8,4,2010,Somalia,SOM,1,0
 1,0,0,0,0,0,4,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2010,Bahrain,BHR,0,1
+3,0,0,0,0,0,4,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2010,Saudi Arabia,SAU,0,1
@@ -16104,6 +16348,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 92,2,1,209,54,141,5,2010,Somalia,SOM,1,0
 5,0,0,0,0,0,5,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2010,Bahrain,BHR,0,1
+5,0,0,0,0,0,5,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2010,Saudi Arabia,SAU,0,1
@@ -16170,6 +16415,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 134,10,0,243,43,17,6,2010,Somalia,SOM,1,0
 17,0,0,0,0,0,6,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2010,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2010,Saudi Arabia,SAU,0,1
@@ -16236,6 +16482,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 315,20,0,123,50,74,7,2010,Somalia,SOM,1,0
 22,0,0,0,0,0,7,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2010,Bahrain,BHR,0,1
+28,0,0,0,0,0,7,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2010,Saudi Arabia,SAU,0,1
@@ -16302,6 +16549,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 338,23,2,154,38,102,8,2010,Somalia,SOM,1,0
 35,0,0,0,0,0,8,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2010,Bahrain,BHR,0,1
+4,0,0,0,0,0,8,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2010,Saudi Arabia,SAU,0,1
@@ -16368,6 +16616,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 122,48,5,88,34,79,9,2010,Somalia,SOM,1,0
 23,0,0,0,0,0,9,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2010,Bahrain,BHR,0,1
+4,0,0,0,0,0,9,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2010,Saudi Arabia,SAU,0,1
@@ -16434,6 +16683,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 208,73,6,214,43,57,10,2010,Somalia,SOM,1,0
 47,0,0,0,0,0,10,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2010,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2010,Saudi Arabia,SAU,0,1
@@ -16500,6 +16750,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 128,60,0,75,29,77,11,2010,Somalia,SOM,1,0
 5,26,0,0,0,0,11,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2010,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2010,Saudi Arabia,SAU,0,1
@@ -16566,6 +16817,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 166,49,0,60,24,26,12,2010,Somalia,SOM,1,0
 4,0,0,0,0,0,12,2010,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2010,Bahrain,BHR,0,1
+41,0,0,0,0,0,12,2010,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2010,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2010,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2010,Saudi Arabia,SAU,0,1
@@ -16632,6 +16884,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 77,5,2,15,3,1,1,2011,Somalia,SOM,1,0
 17,0,0,0,0,0,1,2011,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2011,Saudi Arabia,SAU,0,1
@@ -16698,6 +16951,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 262,7,14,36,13,23,2,2011,Somalia,SOM,1,0
 10,0,10,0,0,0,2,2011,Yemen,YEM,0,1
 0,0,7,0,0,0,2,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2011,Saudi Arabia,SAU,0,1
@@ -16764,6 +17018,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 256,0,2,87,65,19,3,2011,Somalia,SOM,1,0
 28,0,80,0,0,0,3,2011,Yemen,YEM,0,1
 0,0,8,0,0,0,3,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2011,Saudi Arabia,SAU,0,1
@@ -16830,6 +17085,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 140,12,2,22,53,37,4,2011,Somalia,SOM,1,0
 23,0,16,0,0,0,4,2011,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2011,Saudi Arabia,SAU,0,1
@@ -16896,6 +17152,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 135,26,4,84,27,14,5,2011,Somalia,SOM,1,0
 61,0,35,0,0,0,5,2011,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2011,Bahrain,BHR,0,1
+1,0,0,0,0,0,5,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2011,Saudi Arabia,SAU,0,1
@@ -16962,6 +17219,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 125,0,4,55,40,55,6,2011,Somalia,SOM,1,0
 220,0,1,0,0,0,6,2011,Yemen,YEM,0,1
 0,0,2,0,0,0,6,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2011,Saudi Arabia,SAU,0,1
@@ -17028,6 +17286,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 31,30,3,64,42,40,7,2011,Somalia,SOM,1,0
 154,100,0,0,0,0,7,2011,Yemen,YEM,0,1
 0,0,2,0,0,0,7,2011,Bahrain,BHR,0,1
+72,0,0,0,0,0,7,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2011,Saudi Arabia,SAU,0,1
@@ -17095,6 +17354,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 110,17,0,45,51,72,8,2011,Somalia,SOM,1,0
 192,3,0,0,0,0,8,2011,Yemen,YEM,0,1
 0,0,1,0,0,0,8,2011,Bahrain,BHR,0,1
+8,0,0,0,0,0,8,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2011,Saudi Arabia,SAU,0,1
@@ -17162,6 +17422,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 93,5,7,63,32,15,9,2011,Somalia,SOM,1,0
 138,0,7,0,0,0,9,2011,Yemen,YEM,0,1
 0,0,2,0,0,0,9,2011,Bahrain,BHR,0,1
+134,0,0,0,0,0,9,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2011,Saudi Arabia,SAU,0,1
@@ -17229,6 +17490,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 260,0,4,69,19,206,10,2011,Somalia,SOM,1,0
 98,0,14,0,0,0,10,2011,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2011,Saudi Arabia,SAU,0,1
@@ -17296,6 +17558,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 190,5,23,52,55,39,11,2011,Somalia,SOM,1,0
 80,6,15,0,0,0,11,2011,Yemen,YEM,0,1
 0,0,1,0,0,0,11,2011,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2011,Saudi Arabia,SAU,0,1
@@ -17363,6 +17626,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 258,2,7,38,46,31,12,2011,Somalia,SOM,1,0
 122,0,0,0,0,0,12,2011,Yemen,YEM,0,1
 0,0,3,0,0,0,12,2011,Bahrain,BHR,0,1
+5,0,0,0,0,0,12,2011,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2011,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2011,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2011,Saudi Arabia,SAU,0,1
@@ -17430,6 +17694,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 365,120,13,78,71,44,1,2012,Somalia,SOM,1,0
 78,20,0,0,0,0,1,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2012,Saudi Arabia,SAU,0,1
@@ -17497,6 +17762,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 291,25,12,113,73,34,2,2012,Somalia,SOM,1,0
 77,60,0,0,0,0,2,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2012,Bahrain,BHR,0,1
+5,0,0,0,0,0,2,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2012,Saudi Arabia,SAU,0,1
@@ -17564,6 +17830,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 254,41,12,37,53,31,3,2012,Somalia,SOM,1,0
 426,0,0,0,0,0,3,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2012,Saudi Arabia,SAU,0,1
@@ -17631,6 +17898,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 166,20,6,69,32,47,4,2012,Somalia,SOM,1,0
 529,0,0,0,0,0,4,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2012,Bahrain,BHR,0,1
+7,0,0,0,0,0,4,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2012,Saudi Arabia,SAU,0,1
@@ -17698,6 +17966,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 158,0,4,119,78,79,5,2012,Somalia,SOM,1,0
 578,15,0,0,0,0,5,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2012,Bahrain,BHR,0,1
+1,0,0,0,0,0,5,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2012,Saudi Arabia,SAU,0,1
@@ -17765,6 +18034,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 154,7,4,102,69,37,6,2012,Somalia,SOM,1,0
 317,0,0,0,0,0,6,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2012,Bahrain,BHR,0,1
+4,0,0,0,0,0,6,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2012,Saudi Arabia,SAU,0,1
@@ -17832,6 +18102,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 161,0,5,265,115,78,7,2012,Somalia,SOM,1,0
 26,0,0,0,0,0,7,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2012,Saudi Arabia,SAU,0,1
@@ -17899,6 +18170,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 330,0,8,297,102,77,8,2012,Somalia,SOM,1,0
 112,0,0,0,0,0,8,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2012,Saudi Arabia,SAU,0,1
@@ -17966,6 +18238,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 367,0,4,120,37,68,9,2012,Somalia,SOM,1,0
 49,0,0,0,0,0,9,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2012,Saudi Arabia,SAU,0,1
@@ -18033,6 +18306,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 119,0,7,68,40,48,10,2012,Somalia,SOM,1,0
 61,0,0,0,0,0,10,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2012,Saudi Arabia,SAU,0,1
@@ -18100,6 +18374,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 146,6,10,131,91,38,11,2012,Somalia,SOM,1,0
 12,0,0,0,0,0,11,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2012,Saudi Arabia,SAU,0,1
@@ -18167,6 +18442,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 113,38,23,155,86,56,12,2012,Somalia,SOM,1,0
 66,0,0,0,0,0,12,2012,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2012,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2012,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2012,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2012,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2012,Saudi Arabia,SAU,0,1
@@ -18234,6 +18510,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 92,0,16,96,75,49,1,2013,Somalia,SOM,1,0
 99,0,0,0,0,0,1,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2013,Saudi Arabia,SAU,0,1
@@ -18301,6 +18578,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 102,0,13,124,79,48,2,2013,Somalia,SOM,1,0
 41,0,0,0,0,0,2,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2013,Saudi Arabia,SAU,0,1
@@ -18368,6 +18646,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 62,0,6,53,79,85,3,2013,Somalia,SOM,1,0
 28,0,0,0,0,0,3,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2013,Saudi Arabia,SAU,0,1
@@ -18435,6 +18714,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 68,0,10,70,72,81,4,2013,Somalia,SOM,1,0
 16,0,0,0,0,0,4,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2013,Saudi Arabia,SAU,0,1
@@ -18502,6 +18782,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 90,0,8,108,98,49,5,2013,Somalia,SOM,1,0
 20,0,0,0,0,0,5,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2013,Saudi Arabia,SAU,0,1
@@ -18569,6 +18850,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 55,0,8,118,116,42,6,2013,Somalia,SOM,1,0
 33,0,0,0,0,0,6,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2013,Saudi Arabia,SAU,0,1
@@ -18636,6 +18918,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 79,0,8,115,140,78,7,2013,Somalia,SOM,1,0
 10,0,0,0,0,0,7,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2013,Saudi Arabia,SAU,0,1
@@ -18703,6 +18986,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 101,0,9,90,103,85,8,2013,Somalia,SOM,1,0
 53,0,0,0,0,0,8,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2013,Bahrain,BHR,0,1
+2,0,0,0,0,0,8,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2013,Saudi Arabia,SAU,0,1
@@ -18770,6 +19054,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 31,0,34,92,83,94,9,2013,Somalia,SOM,1,0
 89,0,0,0,0,0,9,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2013,Saudi Arabia,SAU,0,1
@@ -18837,6 +19122,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 88,0,6,127,104,43,10,2013,Somalia,SOM,1,0
 41,0,0,0,0,0,10,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2013,Bahrain,BHR,0,1
+9,0,0,0,0,0,10,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2013,Saudi Arabia,SAU,0,1
@@ -18904,6 +19190,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 80,0,3,116,103,70,11,2013,Somalia,SOM,1,0
 51,0,0,0,0,0,11,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2013,Saudi Arabia,SAU,0,1
@@ -18971,6 +19258,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,11,130,76,42,12,2013,Somalia,SOM,1,0
 97,0,0,0,0,0,12,2013,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2013,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2013,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2013,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2013,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2013,Saudi Arabia,SAU,0,1
@@ -19038,6 +19326,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 74,0,11,106,78,52,1,2014,Somalia,SOM,1,0
 41,0,0,0,0,0,1,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,1,2014,Saudi Arabia,SAU,0,1
@@ -19105,6 +19394,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 72,0,4,101,109,74,2,2014,Somalia,SOM,1,0
 18,0,0,0,0,0,2,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2014,Saudi Arabia,SAU,0,1
@@ -19172,6 +19462,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 101,0,15,103,108,83,3,2014,Somalia,SOM,1,0
 79,0,0,0,0,0,3,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2014,Saudi Arabia,SAU,0,1
@@ -19239,6 +19530,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 121,0,8,132,110,66,4,2014,Somalia,SOM,1,0
 167,0,0,0,0,0,4,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2014,Saudi Arabia,SAU,0,1
@@ -19306,6 +19598,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 112,0,6,151,75,101,5,2014,Somalia,SOM,1,0
 350,3,0,0,0,0,5,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2014,Saudi Arabia,SAU,0,1
@@ -19373,6 +19666,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 53,0,8,162,72,65,6,2014,Somalia,SOM,1,0
 280,0,0,0,0,0,6,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2014,Bahrain,BHR,0,1
+2,0,0,0,0,0,6,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2014,Saudi Arabia,SAU,0,1
@@ -19440,6 +19734,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 112,0,12,154,129,84,7,2014,Somalia,SOM,1,0
 252,0,0,0,0,0,7,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,7,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2014,Saudi Arabia,SAU,0,1
@@ -19507,6 +19802,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 47,9,16,130,70,47,8,2014,Somalia,SOM,1,0
 153,0,0,0,0,0,8,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,8,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2014,Saudi Arabia,SAU,0,1
@@ -19574,6 +19870,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 89,0,1,88,78,34,9,2014,Somalia,SOM,1,0
 291,21,0,0,0,0,9,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,9,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2014,Saudi Arabia,SAU,0,1
@@ -19641,6 +19938,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 200,0,4,243,98,83,10,2014,Somalia,SOM,1,0
 79,237,0,0,0,0,10,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2014,Bahrain,BHR,0,1
+3,0,0,0,0,0,10,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2014,Saudi Arabia,SAU,0,1
@@ -19708,6 +20006,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 84,0,10,264,75,42,11,2014,Somalia,SOM,1,0
 69,106,0,0,0,0,11,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2014,Saudi Arabia,SAU,0,1
@@ -19775,6 +20074,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 46,0,32,154,88,102,12,2014,Somalia,SOM,1,0
 47,93,0,0,0,0,12,2014,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2014,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2014,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2014,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2014,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2014,Saudi Arabia,SAU,0,1
@@ -19842,6 +20142,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 82,0,10,207,96,45,1,2015,Somalia,SOM,1,0
 41,21,0,122,80,25,1,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2015,Qatar,QAT,0,1
 0,0,0,7,1,0,1,2015,Saudi Arabia,SAU,0,1
@@ -19909,6 +20210,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 100,0,3,211,71,73,2,2015,Somalia,SOM,1,0
 27,45,1,259,97,27,2,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,2,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2015,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2015,Saudi Arabia,SAU,0,1
@@ -19976,6 +20278,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 43,0,4,100,90,42,3,2015,Somalia,SOM,1,0
 495,71,14,731,251,315,3,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2015,Qatar,QAT,0,1
 0,0,0,0,0,1,3,2015,Saudi Arabia,SAU,0,1
@@ -20043,6 +20346,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 51,0,1,48,66,58,4,2015,Somalia,SOM,1,0
 1298,41,0,2359,602,369,4,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2015,Bahrain,BHR,0,1
+10,0,0,0,0,0,4,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2015,Qatar,QAT,0,1
 6,0,0,0,0,0,4,2015,Saudi Arabia,SAU,0,1
@@ -20110,6 +20414,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,6,85,69,56,5,2015,Somalia,SOM,1,0
 972,13,0,1447,545,422,5,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,5,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2015,Qatar,QAT,0,1
 35,0,24,67,20,39,5,2015,Saudi Arabia,SAU,0,1
@@ -20177,6 +20482,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 137,0,3,119,85,34,6,2015,Somalia,SOM,1,0
 935,27,0,1224,536,546,6,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,6,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,26,0,0,0,6,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2015,Qatar,QAT,0,1
 5,0,0,108,53,1,6,2015,Saudi Arabia,SAU,0,1
@@ -20244,6 +20550,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 188,0,11,207,75,92,7,2015,Somalia,SOM,1,0
 1098,27,4,870,240,610,7,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2015,Bahrain,BHR,0,1
+5,0,0,0,0,0,7,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2015,Qatar,QAT,0,1
 3,0,1,23,30,1,7,2015,Saudi Arabia,SAU,0,1
@@ -20311,6 +20618,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 194,0,0,215,72,87,8,2015,Somalia,SOM,1,0
 484,21,0,1008,318,407,8,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2015,Bahrain,BHR,0,1
+6,0,0,0,0,0,8,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2015,Qatar,QAT,0,1
 10,0,0,150,51,17,8,2015,Saudi Arabia,SAU,0,1
@@ -20378,6 +20686,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 107,2,3,130,67,44,9,2015,Somalia,SOM,1,0
 944,12,0,687,457,830,9,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2015,Bahrain,BHR,0,1
+4,0,0,0,0,0,9,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2015,Qatar,QAT,0,1
 10,0,0,125,44,4,9,2015,Saudi Arabia,SAU,0,1
@@ -20445,6 +20754,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 34,0,1,139,57,20,10,2015,Somalia,SOM,1,0
 510,22,0,906,424,466,10,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2015,Qatar,QAT,0,1
 0,0,7,75,59,7,10,2015,Saudi Arabia,SAU,0,1
@@ -20512,6 +20822,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 90,0,8,264,66,59,11,2015,Somalia,SOM,1,0
 329,54,0,1279,313,300,11,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,11,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2015,Qatar,QAT,0,1
 6,0,0,106,72,0,11,2015,Saudi Arabia,SAU,0,1
@@ -20579,6 +20890,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 110,0,1,124,68,60,12,2015,Somalia,SOM,1,0
 552,26,0,1268,328,319,12,2015,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2015,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2015,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2015,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2015,Qatar,QAT,0,1
 6,0,0,111,65,6,12,2015,Saudi Arabia,SAU,0,1
@@ -20646,6 +20958,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 287,0,29,340,72,56,1,2016,Somalia,SOM,1,0
 200,46,1,1245,440,216,1,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2016,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2016,Qatar,QAT,0,1
 5,0,4,97,83,9,1,2016,Saudi Arabia,SAU,0,1
@@ -20713,6 +21026,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 132,0,3,171,74,76,2,2016,Somalia,SOM,1,0
 75,77,0,754,297,291,2,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2016,Bahrain,BHR,0,1
+0,0,0,2,1,0,2,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2016,Qatar,QAT,0,1
 4,0,1,72,63,2,2,2016,Saudi Arabia,SAU,0,1
@@ -20780,6 +21094,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 438,0,9,543,92,50,3,2016,Somalia,SOM,1,0
 341,144,0,780,206,202,3,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2016,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2016,Qatar,QAT,0,1
 1,0,0,0,2,1,3,2016,Saudi Arabia,SAU,0,1
@@ -20847,6 +21162,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 146,0,5,189,76,90,4,2016,Somalia,SOM,1,0
 131,117,0,545,388,97,4,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2016,Bahrain,BHR,0,1
+0,0,0,7,2,0,4,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2016,Qatar,QAT,0,1
 2,0,0,5,2,3,4,2016,Saudi Arabia,SAU,0,1
@@ -20914,6 +21230,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 116,0,7,297,102,57,5,2016,Somalia,SOM,1,0
 86,143,0,511,324,87,5,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2016,Bahrain,BHR,0,1
+5,0,0,13,5,0,5,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2016,Qatar,QAT,0,1
 0,0,0,0,2,0,5,2016,Saudi Arabia,SAU,0,1
@@ -20981,6 +21298,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 236,41,6,268,98,139,6,2016,Somalia,SOM,1,0
 402,58,0,881,349,124,6,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2016,Bahrain,BHR,0,1
+26,0,0,51,13,2,6,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2016,Qatar,QAT,0,1
 0,0,0,0,5,2,6,2016,Saudi Arabia,SAU,0,1
@@ -21048,6 +21366,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 96,0,2,283,64,71,7,2016,Somalia,SOM,1,0
 270,53,1,1011,413,99,7,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2016,Bahrain,BHR,0,1
+8,0,0,25,7,3,7,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2016,Qatar,QAT,0,1
 39,0,0,68,31,5,7,2016,Saudi Arabia,SAU,0,1
@@ -21115,6 +21434,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 145,0,2,224,76,84,8,2016,Somalia,SOM,1,0
 286,154,0,1320,545,355,8,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2016,Bahrain,BHR,0,1
+4,0,0,8,2,0,8,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2016,Qatar,QAT,0,1
 60,0,0,226,107,25,8,2016,Saudi Arabia,SAU,0,1
@@ -21182,6 +21502,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,5,222,71,57,9,2016,Somalia,SOM,1,0
 224,29,0,1081,393,274,9,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2016,Bahrain,BHR,0,1
+13,0,0,45,5,1,9,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2016,Qatar,QAT,0,1
 1,0,0,149,84,1,9,2016,Saudi Arabia,SAU,0,1
@@ -21249,6 +21570,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 79,0,11,190,67,73,10,2016,Somalia,SOM,1,0
 417,21,0,1569,519,286,10,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2016,Bahrain,BHR,0,1
+13,0,0,56,6,1,10,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,1,0,10,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2016,Qatar,QAT,0,1
 1,0,0,257,96,2,10,2016,Saudi Arabia,SAU,0,1
@@ -21316,6 +21638,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 85,0,0,208,65,51,11,2016,Somalia,SOM,1,0
 436,42,1,1800,443,196,11,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2016,Bahrain,BHR,0,1
+0,0,0,4,4,0,11,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2016,Qatar,QAT,0,1
 5,0,0,138,55,3,11,2016,Saudi Arabia,SAU,0,1
@@ -21383,6 +21706,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 118,0,10,199,95,122,12,2016,Somalia,SOM,1,0
 150,121,0,1324,435,95,12,2016,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2016,Bahrain,BHR,0,1
+0,0,0,1,2,1,12,2016,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2016,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2016,Qatar,QAT,0,1
 2,0,0,110,60,1,12,2016,Saudi Arabia,SAU,0,1
@@ -21450,6 +21774,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 174,0,5,209,102,175,1,2017,Somalia,SOM,1,0
 627,79,0,1769,449,230,1,2017,Yemen,YEM,0,1
 0,0,0,0,0,2,1,2017,Bahrain,BHR,0,1
+1,0,0,0,0,0,1,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2017,Qatar,QAT,0,1
 0,0,0,79,61,1,1,2017,Saudi Arabia,SAU,0,1
@@ -21517,6 +21842,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 72,0,6,143,67,92,2,2017,Somalia,SOM,1,0
 298,16,2,923,347,114,2,2017,Yemen,YEM,0,1
 0,0,0,0,0,1,2,2017,Bahrain,BHR,0,1
+0,0,0,1,1,0,2,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2017,Qatar,QAT,0,1
 2,0,0,53,53,2,2,2017,Saudi Arabia,SAU,0,1
@@ -21584,6 +21910,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 95,0,3,108,57,116,3,2017,Somalia,SOM,1,0
 293,77,0,1055,386,191,3,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2017,Bahrain,BHR,0,1
+0,0,0,3,2,3,3,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2017,Qatar,QAT,0,1
 42,0,0,109,31,1,3,2017,Saudi Arabia,SAU,0,1
@@ -21651,6 +21978,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 79,10,5,305,77,117,4,2017,Somalia,SOM,1,0
 205,35,0,1039,376,83,4,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2017,Bahrain,BHR,0,1
+15,0,0,11,1,1,4,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2017,Qatar,QAT,0,1
 1,0,0,96,78,1,4,2017,Saudi Arabia,SAU,0,1
@@ -21718,6 +22046,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 58,0,13,177,79,121,5,2017,Somalia,SOM,1,0
 137,7,0,1066,381,125,5,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2017,Bahrain,BHR,0,1
+2,0,0,0,0,0,5,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2017,Qatar,QAT,0,1
 0,0,0,133,59,0,5,2017,Saudi Arabia,SAU,0,1
@@ -21785,6 +22114,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 171,0,2,308,93,82,6,2017,Somalia,SOM,1,0
 129,14,0,1026,363,93,6,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2017,Bahrain,BHR,0,1
+27,0,0,32,5,1,6,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2017,Qatar,QAT,0,1
 0,0,0,66,33,3,6,2017,Saudi Arabia,SAU,0,1
@@ -21852,6 +22182,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 174,0,4,258,89,80,7,2017,Somalia,SOM,1,0
 118,16,0,1277,388,100,7,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2017,Bahrain,BHR,0,1
+0,0,0,9,3,0,7,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2017,Qatar,QAT,0,1
 0,0,0,202,43,3,7,2017,Saudi Arabia,SAU,0,1
@@ -21919,6 +22250,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 32,27,8,138,73,117,8,2017,Somalia,SOM,1,0
 144,20,0,1382,419,116,8,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2017,Bahrain,BHR,0,1
+2,0,0,2,1,2,8,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2017,Qatar,QAT,0,1
 0,0,0,78,46,1,8,2017,Saudi Arabia,SAU,0,1
@@ -21986,6 +22318,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 150,0,22,263,103,122,9,2017,Somalia,SOM,1,0
 25,12,0,1236,419,102,9,2017,Yemen,YEM,0,1
 0,0,0,3,1,0,9,2017,Bahrain,BHR,0,1
+2,0,0,0,0,0,9,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2017,Qatar,QAT,0,1
 0,0,0,108,36,0,9,2017,Saudi Arabia,SAU,0,1
@@ -22053,6 +22386,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 669,0,14,191,105,705,10,2017,Somalia,SOM,1,0
 162,78,0,1453,456,94,10,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2017,Bahrain,BHR,0,1
+0,0,0,6,1,2,10,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2017,Qatar,QAT,0,1
 0,0,0,145,71,0,10,2017,Saudi Arabia,SAU,0,1
@@ -22120,6 +22454,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 159,0,4,494,99,44,11,2017,Somalia,SOM,1,0
 269,92,0,1293,292,166,11,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2017,Bahrain,BHR,0,1
+8,0,0,18,1,0,11,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2017,Qatar,QAT,0,1
 0,0,0,103,54,0,11,2017,Saudi Arabia,SAU,0,1
@@ -22187,6 +22522,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 85,12,18,238,74,72,12,2017,Somalia,SOM,1,0
 738,30,0,2022,448,500,12,2017,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2017,Bahrain,BHR,0,1
+1,0,0,2,2,0,12,2017,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2017,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2017,Qatar,QAT,0,1
 0,0,0,232,113,0,12,2017,Saudi Arabia,SAU,0,1
@@ -22254,6 +22590,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 74,20,0,247,118,39,1,2018,Somalia,SOM,1,0
 362,76,1,2139,562,237,1,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2018,Bahrain,BHR,0,1
+11,0,0,7,2,2,1,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2018,Qatar,QAT,0,1
 2,0,0,134,102,0,1,2018,Saudi Arabia,SAU,0,1
@@ -22321,6 +22658,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 145,0,6,193,118,83,2,2018,Somalia,SOM,1,0
 193,66,0,2195,447,177,2,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2018,Bahrain,BHR,0,1
+0,0,0,0,1,0,2,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2018,Qatar,QAT,0,1
 0,0,0,195,97,0,2,2018,Saudi Arabia,SAU,0,1
@@ -22388,6 +22726,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 232,0,8,292,133,68,3,2018,Somalia,SOM,1,0
 114,54,0,2706,514,169,3,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2018,Bahrain,BHR,0,1
+4,0,0,4,1,0,3,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2018,Qatar,QAT,0,1
 2,0,0,117,81,1,3,2018,Saudi Arabia,SAU,0,1
@@ -22455,6 +22794,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 233,0,2,243,95,41,4,2018,Somalia,SOM,1,0
 281,11,1,2093,520,242,4,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2018,Bahrain,BHR,0,1
+7,0,0,1,1,8,4,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2018,Qatar,QAT,0,1
 1,0,0,116,75,1,4,2018,Saudi Arabia,SAU,0,1
@@ -22522,6 +22862,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 180,12,10,337,117,60,5,2018,Somalia,SOM,1,0
 490,13,0,2191,485,162,5,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2018,Bahrain,BHR,0,1
+0,0,0,0,0,3,5,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2018,Qatar,QAT,0,1
 0,0,0,118,85,0,5,2018,Saudi Arabia,SAU,0,1
@@ -22589,6 +22930,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 268,0,6,460,115,76,6,2018,Somalia,SOM,1,0
 720,5,0,3055,559,178,6,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2018,Bahrain,BHR,0,1
+18,0,1,19,4,0,6,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2018,Qatar,QAT,0,1
 3,0,0,139,69,3,6,2018,Saudi Arabia,SAU,0,1
@@ -22656,6 +22998,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 174,0,10,361,103,58,7,2018,Somalia,SOM,1,0
 545,49,0,2422,528,248,7,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2018,Bahrain,BHR,0,1
+27,0,0,14,2,0,7,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2018,Qatar,QAT,0,1
 0,0,0,111,41,0,7,2018,Saudi Arabia,SAU,0,1
@@ -22723,6 +23066,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 91,0,10,214,101,76,8,2018,Somalia,SOM,1,0
 378,11,0,2603,504,317,8,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2018,Bahrain,BHR,0,1
+11,0,0,14,2,0,8,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2018,Qatar,QAT,0,1
 3,0,0,68,53,1,8,2018,Saudi Arabia,SAU,0,1
@@ -22790,6 +23134,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 208,21,9,339,89,63,9,2018,Somalia,SOM,1,0
 310,9,0,3058,666,173,9,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2018,Bahrain,BHR,0,1
+10,0,0,38,3,0,9,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2018,Qatar,QAT,0,1
 0,0,0,74,39,0,9,2018,Saudi Arabia,SAU,0,1
@@ -22857,6 +23202,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 137,58,19,240,87,98,10,2018,Somalia,SOM,1,0
 392,2,0,2962,601,179,10,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2018,Bahrain,BHR,0,1
+3,0,0,0,1,0,10,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2018,Qatar,QAT,0,1
 0,0,0,129,45,0,10,2018,Saudi Arabia,SAU,0,1
@@ -22924,6 +23270,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 260,10,40,219,68,57,11,2018,Somalia,SOM,1,0
 693,38,0,3394,548,165,11,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2018,Bahrain,BHR,0,1
+0,0,0,0,0,2,11,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2018,Qatar,QAT,0,1
 0,0,0,213,44,0,11,2018,Saudi Arabia,SAU,0,1
@@ -22991,6 +23338,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 211,39,14,273,57,79,12,2018,Somalia,SOM,1,0
 171,8,0,2634,582,169,12,2018,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2018,Bahrain,BHR,0,1
+0,0,0,0,0,0,12,2018,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2018,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2018,Qatar,QAT,0,1
 0,0,0,101,27,0,12,2018,Saudi Arabia,SAU,0,1
@@ -23058,6 +23406,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 383,1,3,342,79,75,1,2019,Somalia,SOM,1,0
 178,38,0,2657,654,141,1,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2019,Bahrain,BHR,0,1
+0,0,0,0,0,0,1,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2019,Qatar,QAT,0,1
 0,0,0,98,26,0,1,2019,Saudi Arabia,SAU,0,1
@@ -23125,6 +23474,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 230,0,28,323,77,103,2,2019,Somalia,SOM,1,0
 249,11,0,2261,562,99,2,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2019,Bahrain,BHR,0,1
+29,0,0,29,2,0,2,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2019,Qatar,QAT,0,1
 2,0,0,79,34,0,2,2019,Saudi Arabia,SAU,0,1
@@ -23192,6 +23542,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 151,32,19,233,85,124,3,2019,Somalia,SOM,1,0
 582,29,0,2742,632,170,3,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2019,Bahrain,BHR,0,1
+0,0,0,0,0,0,3,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2019,Qatar,QAT,0,1
 0,0,0,238,33,0,3,2019,Saudi Arabia,SAU,0,1
@@ -23259,6 +23610,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 21,0,3,84,69,50,4,2019,Somalia,SOM,1,0
 337,34,0,2960,608,92,4,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2019,Bahrain,BHR,0,1
+0,0,0,0,1,0,4,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2019,Qatar,QAT,0,1
 0,0,0,73,18,0,4,2019,Saudi Arabia,SAU,0,1
@@ -23326,6 +23678,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 201,3,7,222,118,74,5,2019,Somalia,SOM,1,0
 432,22,0,2697,534,118,5,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2019,Bahrain,BHR,0,1
+4,0,0,1,1,0,5,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2019,Qatar,QAT,0,1
 0,0,0,99,29,0,5,2019,Saudi Arabia,SAU,0,1
@@ -23393,6 +23746,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 104,30,2,159,97,77,6,2019,Somalia,SOM,1,0
 34,24,1,3047,613,80,6,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2019,Bahrain,BHR,0,1
+4,0,0,2,2,1,6,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2019,Qatar,QAT,0,1
 0,0,1,210,35,2,6,2019,Saudi Arabia,SAU,0,1
@@ -23460,6 +23814,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 165,25,22,201,90,160,7,2019,Somalia,SOM,1,0
 78,6,1,2698,587,66,7,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2019,Bahrain,BHR,0,1
+17,0,0,9,6,0,7,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2019,Qatar,QAT,0,1
 1,0,0,57,17,1,7,2019,Saudi Arabia,SAU,0,1
@@ -23527,6 +23882,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 130,2,1,221,100,50,8,2019,Somalia,SOM,1,0
 288,139,0,2439,501,224,8,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2019,Bahrain,BHR,0,1
+7,0,0,2,1,3,8,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2019,Qatar,QAT,0,1
 0,0,0,86,27,0,8,2019,Saudi Arabia,SAU,0,1
@@ -23594,6 +23950,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 203,6,2,203,78,82,9,2019,Somalia,SOM,1,0
 196,8,0,1754,472,67,9,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2019,Bahrain,BHR,0,1
+0,0,1,0,0,1,9,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2019,Qatar,QAT,0,1
 0,0,0,40,11,1,9,2019,Saudi Arabia,SAU,0,1
@@ -23661,6 +24018,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 112,13,9,188,72,51,10,2019,Somalia,SOM,1,0
 132,1,0,1180,339,90,10,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2019,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2019,Qatar,QAT,0,1
 0,0,0,0,0,0,10,2019,Saudi Arabia,SAU,0,1
@@ -23728,6 +24086,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 36,3,2,223,105,55,11,2019,Somalia,SOM,1,0
 90,2,0,819,338,64,11,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2019,Bahrain,BHR,0,1
+0,0,251,0,0,0,11,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2019,Qatar,QAT,0,1
 1,0,0,6,3,0,11,2019,Saudi Arabia,SAU,0,1
@@ -23795,6 +24154,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 210,57,3,268,112,37,12,2019,Somalia,SOM,1,0
 42,5,0,931,370,66,12,2019,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2019,Bahrain,BHR,0,1
+0,0,0,0,0,1,12,2019,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2019,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2019,Qatar,QAT,0,1
 1,0,0,6,3,0,12,2019,Saudi Arabia,SAU,0,1
@@ -23862,6 +24222,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 223,3,21,173,93,45,1,2020,Somalia,SOM,1,0
 429,28,0,1456,469,69,1,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2020,Bahrain,BHR,0,1
+176,0,0,0,0,177,1,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2020,Qatar,QAT,0,1
 0,0,0,20,8,0,1,2020,Saudi Arabia,SAU,0,1
@@ -23929,6 +24290,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 135,15,1,158,97,81,2,2020,Somalia,SOM,1,0
 433,14,3,1492,418,93,2,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2020,Bahrain,BHR,0,1
+0,0,0,0,0,2,2,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2020,Qatar,QAT,0,1
 0,0,0,30,4,0,2,2020,Saudi Arabia,SAU,0,1
@@ -23996,6 +24358,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 243,28,1,135,118,53,3,2020,Somalia,SOM,1,0
 511,0,3,1481,460,118,3,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2020,Bahrain,BHR,0,1
+1,0,0,0,0,0,3,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2020,Qatar,QAT,0,1
 0,0,0,0,2,0,3,2020,Saudi Arabia,SAU,0,1
@@ -24063,6 +24426,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 104,20,16,162,81,58,4,2020,Somalia,SOM,1,0
 722,8,41,1712,532,342,4,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2020,Bahrain,BHR,0,1
+0,0,0,0,0,0,4,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2020,Qatar,QAT,0,1
 0,0,0,0,0,10,4,2020,Saudi Arabia,SAU,0,1
@@ -24130,6 +24494,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 166,2,19,205,122,75,5,2020,Somalia,SOM,1,0
 168,60,1,1655,458,60,5,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2020,Bahrain,BHR,0,1
+10,0,23,6,1,5,5,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2020,Qatar,QAT,0,1
 0,0,0,0,4,0,5,2020,Saudi Arabia,SAU,0,1
@@ -24197,6 +24562,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 154,8,6,110,87,53,6,2020,Somalia,SOM,1,0
 273,168,0,1552,424,82,6,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2020,Bahrain,BHR,0,1
+3,0,1,0,0,2,6,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2020,Qatar,QAT,0,1
 0,0,0,0,3,0,6,2020,Saudi Arabia,SAU,0,1
@@ -24264,6 +24630,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 86,1,1,126,76,33,7,2020,Somalia,SOM,1,0
 175,1,3,1271,389,69,7,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2020,Bahrain,BHR,0,1
+12,0,0,6,4,12,7,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2020,Qatar,QAT,0,1
 0,0,0,0,2,0,7,2020,Saudi Arabia,SAU,0,1
@@ -24331,6 +24698,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 177,0,7,276,129,32,8,2020,Somalia,SOM,1,0
 1479,3,0,1688,491,83,8,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2020,Bahrain,BHR,0,1
+5,0,0,8,5,17,8,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2020,Qatar,QAT,0,1
 0,0,0,0,2,0,8,2020,Saudi Arabia,SAU,0,1
@@ -24398,6 +24766,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 169,0,19,150,105,67,9,2020,Somalia,SOM,1,0
 393,1,0,1658,533,65,9,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2020,Bahrain,BHR,0,1
+5,0,1,11,7,5,9,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2020,Qatar,QAT,0,1
 0,0,0,1,5,0,9,2020,Saudi Arabia,SAU,0,1
@@ -24465,6 +24834,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 220,0,1,153,77,59,10,2020,Somalia,SOM,1,0
 743,7,0,1379,459,120,10,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2020,Bahrain,BHR,0,1
+3,0,0,3,9,7,10,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2020,Qatar,QAT,0,1
 0,0,0,0,3,0,10,2020,Saudi Arabia,SAU,0,1
@@ -24532,6 +24902,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 84,5,1,109,100,75,11,2020,Somalia,SOM,1,0
 316,86,0,1524,406,72,11,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2020,Bahrain,BHR,0,1
+4,0,2,1,2,5,11,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2020,Qatar,QAT,0,1
 0,0,0,3,2,0,11,2020,Saudi Arabia,SAU,0,1
@@ -24599,6 +24970,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 184,0,0,178,123,40,12,2020,Somalia,SOM,1,0
 659,19,1,1005,331,99,12,2020,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2020,Bahrain,BHR,0,1
+0,0,0,3,1,5,12,2020,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2020,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2020,Qatar,QAT,0,1
 0,0,0,9,3,0,12,2020,Saudi Arabia,SAU,0,1
@@ -24666,6 +25038,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 143,0,4,150,109,44,1,2021,Somalia,SOM,1,0
 287,0,11,882,253,62,1,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2021,Bahrain,BHR,0,1
+0,0,0,0,1,3,1,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2021,Qatar,QAT,0,1
 0,0,0,0,1,0,1,2021,Saudi Arabia,SAU,0,1
@@ -24733,6 +25106,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 126,0,5,169,118,52,2,2021,Somalia,SOM,1,0
 896,0,8,1648,420,62,2,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2021,Bahrain,BHR,0,1
+2,0,12,0,0,9,2,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2021,Qatar,QAT,0,1
 0,0,0,0,6,0,2,2021,Saudi Arabia,SAU,0,1
@@ -24800,6 +25174,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 169,0,15,142,96,70,3,2021,Somalia,SOM,1,0
 774,16,0,2452,535,100,3,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2021,Bahrain,BHR,0,1
+6,0,1,1,2,4,3,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2021,Qatar,QAT,0,1
 0,0,0,0,23,0,3,2021,Saudi Arabia,SAU,0,1
@@ -24867,6 +25242,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 272,3,1,162,126,56,4,2021,Somalia,SOM,1,0
 2793,2,2,1617,401,56,4,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2021,Bahrain,BHR,0,1
+0,0,0,7,3,4,4,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2021,Qatar,QAT,0,1
 0,0,0,0,15,0,4,2021,Saudi Arabia,SAU,0,1
@@ -24934,6 +25310,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 177,0,1,133,104,35,5,2021,Somalia,SOM,1,0
 335,16,0,1220,293,62,5,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2021,Bahrain,BHR,0,1
+23,0,1,15,7,12,5,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2021,Qatar,QAT,0,1
 0,0,0,0,3,0,5,2021,Saudi Arabia,SAU,0,1
@@ -25001,6 +25378,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 516,0,33,312,111,99,6,2021,Somalia,SOM,1,0
 615,9,3,1107,240,69,6,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2021,Bahrain,BHR,0,1
+10,0,1,5,3,9,6,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2021,Qatar,QAT,0,1
 0,0,0,0,5,0,6,2021,Saudi Arabia,SAU,0,1
@@ -25068,6 +25446,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 222,0,0,225,111,55,7,2021,Somalia,SOM,1,0
 621,8,0,1259,380,20,7,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2021,Bahrain,BHR,0,1
+6,0,9,6,4,12,7,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2021,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2021,Saudi Arabia,SAU,0,1
@@ -25135,6 +25514,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 280,0,11,310,110,56,8,2021,Somalia,SOM,1,0
 554,4,1,1043,293,51,8,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2021,Bahrain,BHR,0,1
+3,0,1,4,4,5,8,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2021,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2021,Saudi Arabia,SAU,0,1
@@ -25202,6 +25582,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 34,0,1,67,105,46,9,2021,Somalia,SOM,1,0
 1121,2,9,992,257,58,9,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2021,Bahrain,BHR,0,1
+2,0,1,5,3,7,9,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2021,Qatar,QAT,0,1
 0,0,0,0,0,1,9,2021,Saudi Arabia,SAU,0,1
@@ -25269,6 +25650,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 61,0,7,139,127,46,10,2021,Somalia,SOM,1,0
 2782,1,0,1335,318,103,10,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2021,Bahrain,BHR,0,1
+0,0,0,1,1,4,10,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2021,Qatar,QAT,0,1
 4,0,0,17,2,0,10,2021,Saudi Arabia,SAU,0,1
@@ -25336,6 +25718,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,11,64,107,39,11,2021,Somalia,SOM,1,0
 11246,4,1,2072,338,70,11,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2021,Bahrain,BHR,0,1
+0,0,0,6,2,11,11,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2021,Qatar,QAT,0,1
 0,0,0,0,7,0,11,2021,Saudi Arabia,SAU,0,1
@@ -25403,6 +25786,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 109,0,3,127,135,47,12,2021,Somalia,SOM,1,0
 1342,0,0,1595,324,82,12,2021,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2021,Bahrain,BHR,0,1
+4,0,0,11,4,4,12,2021,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2021,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2021,Qatar,QAT,0,1
 2,0,0,0,12,3,12,2021,Saudi Arabia,SAU,0,1
@@ -25470,6 +25854,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 169,2,8,234,109,40,1,2022,Somalia,SOM,1,0
 1531,0,16,1568,364,213,1,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2022,Bahrain,BHR,0,1
+0,0,0,9,2,11,1,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2022,Qatar,QAT,0,1
 0,0,0,0,3,0,1,2022,Saudi Arabia,SAU,0,1
@@ -25537,6 +25922,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 164,0,2,203,113,84,2,2022,Somalia,SOM,1,0
 498,4,0,1357,278,65,2,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2022,Bahrain,BHR,0,1
+0,0,0,1,2,8,2,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2022,Saudi Arabia,SAU,0,1
@@ -25604,6 +25990,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 141,0,0,367,99,78,3,2022,Somalia,SOM,1,0
 189,16,0,1042,268,79,3,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2022,Bahrain,BHR,0,1
+0,0,0,0,0,12,3,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2022,Qatar,QAT,0,1
 0,0,0,0,26,0,3,2022,Saudi Arabia,SAU,0,1
@@ -25671,6 +26058,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 65,0,2,88,127,36,4,2022,Somalia,SOM,1,0
 89,1,0,180,382,43,4,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2022,Bahrain,BHR,0,1
+0,0,0,2,2,5,4,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2022,Saudi Arabia,SAU,0,1
@@ -25738,6 +26126,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 110,0,1,143,137,41,5,2022,Somalia,SOM,1,0
 41,14,0,80,455,51,5,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2022,Bahrain,BHR,0,1
+0,0,1,0,0,14,5,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2022,Saudi Arabia,SAU,0,1
@@ -25805,6 +26194,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 139,0,0,229,104,45,6,2022,Somalia,SOM,1,0
 35,20,0,52,441,71,6,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2022,Bahrain,BHR,0,1
+0,0,0,3,2,4,6,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2022,Qatar,QAT,0,1
 0,0,0,0,0,5,6,2022,Saudi Arabia,SAU,0,1
@@ -25872,6 +26262,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 216,0,7,179,92,66,7,2022,Somalia,SOM,1,0
 68,0,1,109,452,43,7,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2022,Bahrain,BHR,0,1
+0,0,0,11,3,11,7,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2022,Saudi Arabia,SAU,0,1
@@ -25939,6 +26330,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 216,0,8,284,155,80,8,2022,Somalia,SOM,1,0
 36,54,0,160,545,40,8,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2022,Bahrain,BHR,0,1
+0,0,0,0,2,3,8,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2022,Qatar,QAT,0,1
 0,0,0,0,0,1,8,2022,Saudi Arabia,SAU,0,1
@@ -26006,6 +26398,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 428,2,39,607,151,106,9,2022,Somalia,SOM,1,0
 50,97,0,81,598,37,9,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2022,Bahrain,BHR,0,1
+19,0,76,30,6,7,9,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,9,2022,Saudi Arabia,SAU,0,1
@@ -26073,6 +26466,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 605,0,1,598,129,193,10,2022,Somalia,SOM,1,0
 58,23,2,179,125,37,10,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2022,Bahrain,BHR,0,1
+20,0,42,6,4,29,10,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2022,Qatar,QAT,0,1
 0,0,0,2,2,0,10,2022,Saudi Arabia,SAU,0,1
@@ -26140,6 +26534,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 448,0,0,754,147,62,11,2022,Somalia,SOM,1,0
 50,19,0,307,137,46,11,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2022,Bahrain,BHR,0,1
+0,0,81,6,2,20,11,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2022,Saudi Arabia,SAU,0,1
@@ -26207,6 +26602,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 339,0,3,602,137,40,12,2022,Somalia,SOM,1,0
 295,11,2,225,82,51,12,2022,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2022,Bahrain,BHR,0,1
+0,0,11,4,3,17,12,2022,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2022,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2022,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2022,Saudi Arabia,SAU,0,1
@@ -26274,6 +26670,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 615,0,1,661,137,111,1,2023,Somalia,SOM,1,0
 81,16,0,275,167,64,1,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2023,Bahrain,BHR,0,1
+0,0,0,1,2,8,1,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2023,Qatar,QAT,0,1
 0,0,0,0,0,185,1,2023,Saudi Arabia,SAU,0,1
@@ -26341,6 +26738,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 671,150,3,1002,132,64,2,2023,Somalia,SOM,1,0
 76,8,0,209,130,185,2,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2023,Bahrain,BHR,0,1
+0,0,0,1,2,6,2,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2023,Saudi Arabia,SAU,0,1
@@ -26408,6 +26806,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 330,66,1,413,97,69,3,2023,Somalia,SOM,1,0
 151,3,0,380,125,102,3,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2023,Bahrain,BHR,0,1
+0,0,2,0,1,23,3,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2023,Saudi Arabia,SAU,0,1
@@ -26475,6 +26874,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 89,0,0,263,99,34,4,2023,Somalia,SOM,1,0
 33,5,1,140,78,43,4,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2023,Bahrain,BHR,0,1
+0,0,0,0,0,8,4,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2023,Saudi Arabia,SAU,0,1
@@ -26542,6 +26942,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 313,0,5,519,100,43,5,2023,Somalia,SOM,1,0
 42,2,4,176,94,60,5,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,5,2023,Bahrain,BHR,0,1
+6,0,0,4,3,9,5,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,5,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,5,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,5,2023,Saudi Arabia,SAU,0,1
@@ -26609,6 +27010,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 212,4,10,268,87,113,6,2023,Somalia,SOM,1,0
 15,13,1,119,86,48,6,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,6,2023,Bahrain,BHR,0,1
+3,0,0,4,19,13,6,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,6,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,6,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,6,2023,Saudi Arabia,SAU,0,1
@@ -26676,6 +27078,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 462,24,9,640,135,56,7,2023,Somalia,SOM,1,0
 43,11,2,198,101,45,7,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,7,2023,Bahrain,BHR,0,1
+10,0,1,0,2,10,7,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,7,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,7,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,7,2023,Saudi Arabia,SAU,0,1
@@ -26743,6 +27146,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 337,48,6,872,164,40,8,2023,Somalia,SOM,1,0
 84,20,1,186,99,56,8,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,8,2023,Bahrain,BHR,0,1
+5,0,0,2,2,5,8,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,8,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,8,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,8,2023,Saudi Arabia,SAU,0,1
@@ -26810,6 +27214,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 450,0,0,986,152,43,9,2023,Somalia,SOM,1,0
 20,16,0,119,65,28,9,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,9,2023,Bahrain,BHR,0,1
+2,0,0,4,4,2,9,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,9,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,9,2023,Qatar,QAT,0,1
 4,0,0,6,2,0,9,2023,Saudi Arabia,SAU,0,1
@@ -26877,6 +27282,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 174,0,7,363,120,36,10,2023,Somalia,SOM,1,0
 199,8,0,99,71,29,10,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,10,2023,Bahrain,BHR,0,1
+0,0,0,0,0,0,10,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,10,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,10,2023,Qatar,QAT,0,1
 5,0,0,0,0,0,10,2023,Saudi Arabia,SAU,0,1
@@ -26944,6 +27350,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 8,0,0,98,74,44,11,2023,Somalia,SOM,1,0
 36,5,3,112,67,28,11,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,11,2023,Bahrain,BHR,0,1
+1,0,0,3,3,5,11,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,11,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,11,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,11,2023,Saudi Arabia,SAU,0,1
@@ -27011,6 +27418,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 201,0,0,528,132,32,12,2023,Somalia,SOM,1,0
 11,0,0,109,57,28,12,2023,Yemen,YEM,0,1
 0,0,0,0,0,0,12,2023,Bahrain,BHR,0,1
+14,0,0,1,1,5,12,2023,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,12,2023,Kuwait,KWT,0,1
 0,0,0,0,0,0,12,2023,Qatar,QAT,0,1
 0,0,0,0,0,0,12,2023,Saudi Arabia,SAU,0,1
@@ -27078,6 +27486,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 166,8,7,316,94,68,1,2024,Somalia,SOM,1,0
 41,10,1,219,131,38,1,2024,Yemen,YEM,0,1
 0,0,0,0,0,0,1,2024,Bahrain,BHR,0,1
+95,0,0,4,6,121,1,2024,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,1,2024,Kuwait,KWT,0,1
 0,0,0,0,0,0,1,2024,Qatar,QAT,0,1
 0,0,0,0,0,5,1,2024,Saudi Arabia,SAU,0,1
@@ -27145,6 +27554,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 144,2,12,318,146,46,2,2024,Somalia,SOM,1,0
 29,24,1,125,76,20,2,2024,Yemen,YEM,0,1
 0,0,0,0,0,0,2,2024,Bahrain,BHR,0,1
+2,0,0,3,2,5,2,2024,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,2,2024,Kuwait,KWT,0,1
 0,0,0,0,0,0,2,2024,Qatar,QAT,0,1
 0,0,0,0,0,0,2,2024,Saudi Arabia,SAU,0,1
@@ -27212,6 +27622,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 288,0,6,550,145,29,3,2024,Somalia,SOM,1,0
 56,5,2,126,71,43,3,2024,Yemen,YEM,0,1
 0,0,0,0,0,0,3,2024,Bahrain,BHR,0,1
+2,0,0,3,4,5,3,2024,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,3,2024,Kuwait,KWT,0,1
 0,0,0,0,0,0,3,2024,Qatar,QAT,0,1
 0,0,0,0,0,0,3,2024,Saudi Arabia,SAU,0,1
@@ -27279,6 +27690,7 @@ ged_sb,ged_ns,ged_os,acled_sb,acled_sb_count,acled_os,Month,Year,isoname,isoab,i
 216,5,7,415,119,53,4,2024,Somalia,SOM,1,0
 81,10,0,102,49,45,4,2024,Yemen,YEM,0,1
 0,0,0,0,0,0,4,2024,Bahrain,BHR,0,1
+41,0,0,36,5,5,4,2024,"Iran, Islamic Republic of",IRN,0,1
 0,0,0,0,0,0,4,2024,Kuwait,KWT,0,1
 0,0,0,0,0,0,4,2024,Qatar,QAT,0,1
 0,0,0,0,0,0,4,2024,Saudi Arabia,SAU,0,1
