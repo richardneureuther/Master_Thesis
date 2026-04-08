@@ -4,7 +4,7 @@
 
 ## Research questions
 
-Does adding theory-informed political event data (ICEWS) improve monthly forecasts of armed conflict fatalities beyond a purely autoregressive baseline, and which theoretical streams (bargaining, mass mobilization, escalation) contribute most?
+Does adding theory-informed event data (ICEWS) improve monthly forecasts of armed conflict fatalities beyond a purely autoregressive baseline, and which theoretical streams (bargaining, mass mobilization, escalation) contribute most?
 Can Reccurent Neural Networks compete with the established VIEWS benchmark?
 
 ## Setup
