@@ -9,7 +9,7 @@ Can Reccurent Neural Networks compete with the established VIEWS benchmark?
 
 ## Setup
 
-- **Target**: state-based conflict fatalities from UCDP GED, monthly, log-transformed. H
+- **Target**: state-based conflict fatalities from UCDP GED, monthly, log-transformed. 
 - **Panel**: 61 countries (Africa and Middle East), January 2001 onward, 17k+ observations.
 - **Features**: lagged target plus seven ICEWS event-count covariates grouped into three theory-informed blocks (bargaining, mass mobilization, escalation).
 - **Models**: pooled LSTM and GRU with learned country embeddings, 6-month multi-step forecast horizon.
