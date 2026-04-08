@@ -1,6 +1,6 @@
 # Master's Thesis: Forecasting Armed Conflict with Recurrent Neural Networks
 
-**Work in progress.** Master's thesis at the University of Konstanz, expected end data June 2026.
+**Work in progress.** Master's thesis at the University of Konstanz, expected end date June 2026.
 
 ## Research questions
 
